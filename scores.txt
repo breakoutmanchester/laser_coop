@@ -1,0 +1,2759 @@
+2024-06-06 13:23:36 Name: Invop 101 - Score: 6
+2024-06-06 13:43:39 Name: Wolf Pack - Score: 6
+2024-06-06 13:56:57 Name: Price is Right - Score: 5
+2024-06-06 14:06:40 Name: Sister Sledgehammer - Score: 9
+2024-06-06 15:30:33 Name: Me me and Re re - Score: 7
+2024-06-06 18:04:03 Name: Its a sign - Score: 6
+2024-06-06 19:54:22 Name: GetLab - Score: 10
+2024-06-06 20:11:10 Name: GitHub - Score: 6
+2024-06-07 11:41:45 Name: Wigan Warriors - Score: 7
+2024-06-07 13:25:47 Name: Brevie - Score: 10
+2024-06-07 20:07:41 Name: Brad - Score: 8
+2024-06-08 11:22:29 Name: The Peas - Score: 6
+2024-06-08 11:45:47 Name: Thirty and Flirty - Score: 10
+2024-06-08 11:55:16 Name: Chorlton Sings - Score: 10
+2024-06-08 12:07:37 Name: Dickos Hens - Score: 9
+2024-06-08 12:22:54 Name: Mixed Bag - Score: 10
+2024-06-08 13:26:50 Name: Baumont Team - Score: 8
+2024-06-08 13:38:05 Name: Team Phoenix Court - Score: 4
+2024-06-08 13:48:10 Name: Team Baumont - Score: 6
+2024-06-08 13:58:24 Name: Dobbos Angels - Score: 8
+2024-06-08 14:08:16 Name: Morning Glory - Score: 3
+2024-06-08 14:27:01 Name: Cleaning The Carpet - Score: 7
+2024-06-08 15:17:41 Name: The Gormans - Score: 2
+2024-06-08 15:30:29 Name: Two Pimps Two Gimps - Score: 5
+2024-06-08 15:41:19 Name: Lovely Day For Guinness - Score: 2
+2024-06-08 16:06:46 Name: Abis Angels - Score: 0
+2024-06-08 16:15:34 Name: AllAboard the Jager Train - Score: 10
+2024-06-08 16:41:37 Name: Andys Angels - Score: 8
+2024-06-08 17:51:36 Name: Quinns Quintette - Score: 10
+2024-06-08 18:08:38 Name: John and Rachael - Score: 0
+2024-06-08 18:21:02 Name: Oldies but Goldies - Score: 6
+2024-06-08 18:32:36 Name: Skibbidi Rizzlers - Score: 3
+2024-06-08 18:43:26 Name: Jeremys Juice - Score: 1
+2024-06-08 18:50:05 Name: Jeremys Juice - Score: 10
+2024-06-08 19:07:58 Name: John and Rachael - Score: 8
+2024-06-08 19:16:43 Name: Skibbidi Rizzlers - Score: 9
+2024-06-08 19:47:41 Name: Evil Geniuses - Score: 6
+2024-06-08 20:12:11 Name: Kookie - Score: 11
+2024-06-08 20:21:33 Name: Double Ts - Score: 0
+2024-06-08 21:00:40 Name: Double Ts - Score: 2
+2024-06-09 11:37:38 Name: Will and Carly - Score: 7
+2024-06-09 15:44:33 Name: Guldar - Score: 9
+2024-06-09 17:42:32 Name: Full Stop - Score: 4
+2024-06-09 17:59:46 Name: 123 - Score: 5
+2024-06-09 20:18:21 Name: T and S - Score: 1
+2024-06-12 11:16:59 Name: Worst Nightmare - Score: 9
+2024-06-12 11:37:58 Name: Dream Team - Score: 9
+2024-06-12 18:27:06 Name: Team Late - Score: 8
+2024-06-12 20:05:19 Name: Seteight - Score: 10
+2024-06-13 11:39:45 Name: Gladiators - Score: 5
+2024-06-13 13:40:37 Name: Fast and Fizz - Score: 7
+2024-06-13 15:32:35 Name: Mad Jacks - Score: 10
+2024-06-13 15:59:33 Name: Team Baddies - Score: 5
+2024-06-13 17:56:00 Name: At Ease Disease - Score: 6
+2024-06-13 18:07:29 Name: Wheelos Winners - Score: 8
+2024-06-13 18:22:53 Name: Spezials - Score: 9
+2024-06-13 18:39:36 Name: Team 3 - Score: 8
+2024-06-13 18:50:36 Name: Paul Wrights Dwarves - Score: 10
+2024-06-13 19:01:08 Name: Squishy squad - Score: 10
+2024-06-14 17:51:35 Name: Storm Falcons - Score: 6
+2024-06-14 18:13:21 Name: The Thunder Hawks - Score: 9
+2024-06-14 18:24:05 Name: On the Spot - Score: 2
+2024-06-14 18:32:31 Name: Dumb and Dumber - Score: 8
+2024-06-14 19:56:38 Name: Couples Therapy - Score: 6
+2024-06-14 20:17:46 Name: The 40 Club - Score: 3
+2024-06-14 20:26:37 Name: Sugar Babez - Score: 9
+2024-06-14 20:36:53 Name: Malloy - Score: 8
+2024-06-15 11:24:28 Name: Just Had breakfast - Score: 9
+2024-06-15 11:44:01 Name: Hodge - Score: 8
+2024-06-15 11:53:59 Name: Slainte - Score: 8
+2024-06-15 12:09:52 Name: Berkie Crew - Score: 6
+2024-06-15 12:17:53 Name: VPSquad - Score: 5
+2024-06-15 13:24:57 Name: Traitors - Score: 11
+2024-06-15 13:35:10 Name: Salopians - Score: 8
+2024-06-15 13:44:11 Name: Carolines Team - Score: 6
+2024-06-15 13:56:35 Name: The Billys - Score: 7
+2024-06-15 14:08:01 Name: Spice World - Score: 10
+2024-06-15 14:16:51 Name: Marathon not Sprint - Score: 9
+2024-06-15 15:26:55 Name: Dumb and Dumber - Score: 9
+2024-06-15 15:35:56 Name: Toms Angels - Score: 10
+2024-06-15 15:47:12 Name: Double Trouble - Score: 12
+2024-06-15 15:58:09 Name: Bold and Blonde - Score: 6
+2024-06-15 16:10:18 Name: Jeve Jarvey - Score: 8
+2024-06-15 16:18:33 Name: M Squared - Score: 8
+2024-06-15 17:45:54 Name: KMI - Score: 5
+2024-06-15 17:56:30 Name: JK - Score: 10
+2024-06-15 18:06:43 Name: The Beans - Score: 8
+2024-06-15 18:18:04 Name: Red Ross - Score: 10
+2024-06-15 18:33:44 Name: The Wingman - Score: 4
+2024-06-15 18:44:24 Name: Just Whatever - Score: 10
+2024-06-15 19:07:22 Name: The Wingman - Score: 13
+2024-06-15 19:41:33 Name: Gemini - Score: 7
+2024-06-15 19:49:37 Name: Choo Choo - Score: 15
+2024-06-16 11:41:09 Name: Walkers - Score: 8
+2024-06-16 11:49:02 Name: Masa - Score: 2
+2024-06-16 12:00:00 Name: Tindalls - Score: 15
+2024-06-16 12:31:58 Name: Masa - Score: 9
+2024-06-16 13:27:33 Name: MQ plus KAZ - Score: 9
+2024-06-16 13:44:22 Name: Team England - Score: 6
+2024-06-16 13:58:10 Name: The Mighty Max - Score: 4
+2024-06-16 14:08:34 Name: The Champions - Score: 6
+2024-06-16 14:19:38 Name: Girl Power - Score: 9
+2024-06-16 15:20:54 Name: The Amatuers - Score: 10
+2024-06-16 15:41:02 Name: Skibidi Slicers - Score: 10
+2024-06-16 15:49:03 Name: Daft Ducks - Score: 9
+2024-06-16 18:17:07 Name: Stacey - Score: 6
+2024-06-17 10:39:19 Name: Stacey - Score: 0
+2024-06-17 13:21:00 Name: Stacey - Score: 0
+2024-06-17 15:18:29 Name: Stacey - Score: 0
+2024-06-19 13:15:04 Name: ? - Score: 0
+2024-06-19 13:24:48 Name: ? - Score: 0
+2024-06-20 11:15:21 Name: Ed Stark - Score: 5
+2024-06-20 11:34:41 Name: Josh and Friend - Score: 8
+2024-06-20 15:00:54 Name: Josh and Friend - Score: 9
+2024-06-20 15:17:56 Name: Live Laugh Toaster Bath - Score: 9
+2024-06-20 15:36:26 Name: Team Olli - Score: 7
+2024-06-20 15:47:54 Name: Ant and Dec - Score: 10
+2024-06-20 15:58:04 Name: Coffee Addicts - Score: 11
+2024-06-20 16:32:07 Name: ? - Score: 11
+2024-06-20 17:44:07 Name: bear - Score: 8
+2024-06-20 17:59:46 Name: lil brezzie - Score: 11
+2024-06-20 19:49:00 Name: Warriors - Score: 12
+2024-06-20 20:09:09 Name: Flight Vickings - Score: 7
+2024-06-20 20:18:29 Name: Team Two - Score: 10
+2024-06-21 11:23:20 Name: The Hoot - Score: 6
+2024-06-21 11:44:23 Name: The Manc - Score: 6
+2024-06-21 13:22:00 Name: Bangy Boys - Score: 9
+2024-06-21 13:42:26 Name: Da Mushies - Score: 12
+2024-06-21 13:53:04 Name: Lukey Tunes - Score: 11
+2024-06-21 14:04:52 Name: Alpha Team - Score: 11
+2024-06-21 14:15:55 Name: The Big Pants Club - Score: 12
+2024-06-21 15:21:55 Name: The Smiths - Score: 12
+2024-06-21 15:41:08 Name: Alevel Survivors - Score: 5
+2024-06-21 19:47:46 Name: A and E - Score: 2
+2024-06-21 20:08:34 Name: Thunda - Score: 7
+2024-06-21 21:48:07 Name: Doornob and Broomslag - Score: 9
+2024-06-21 22:08:10 Name: Tagatha Quizteam - Score: 9
+2024-06-21 22:18:38 Name: TOdashMAdashTOES - Score: 13
+2024-06-22 11:18:37 Name: Nacho Average Sisters - Score: 11
+2024-06-22 11:41:11 Name: Pinky and the Brain - Score: 8
+2024-06-22 11:53:28 Name: Smooth Quest - Score: 7
+2024-06-22 13:19:23 Name: Belfast Brains - Score: 10
+2024-06-22 13:39:25 Name: Single Ladies - Score: 4
+2024-06-22 13:51:30 Name: Salty Peppers - Score: 8
+2024-06-22 14:12:55 Name: Information Warriors - Score: 11
+2024-06-22 14:29:42 Name: Josh & the Bananas - Score: 11
+2024-06-22 15:26:22 Name: Team Camping - Score: 10
+2024-06-22 15:36:43 Name: MEAT MOOT - Score: 9
+2024-06-22 15:46:54 Name: Third Wheel - Score: 8
+2024-06-22 15:58:47 Name: TJ - Score: 7
+2024-06-22 16:10:25 Name: Dirty 30 - Score: 11
+2024-06-22 16:24:30 Name: MEGA - Score: 13
+2024-06-22 17:55:04 Name: The Dynamos - Score: 5
+2024-06-22 18:14:30 Name: Team Lava - Score: 11
+2024-06-22 18:25:41 Name: Team Gerald - Score: 5
+2024-06-22 18:35:36 Name: Boro Boys - Score: 11
+2024-06-22 18:45:13 Name: Brownies - Score: 9
+2024-06-22 19:46:13 Name: Geordie Mad Dogs - Score: 4
+2024-06-22 20:04:36 Name: The Dream Team - Score: 6
+2024-06-22 20:43:17 Name: Geordie Mad Dogs - Score: 6
+2024-06-22 22:02:10 Name: Badges - Score: 11
+2024-06-22 22:38:38 Name: 4 Margs - Score: 8
+2024-06-23 13:52:14 Name: B&M Brigade - Score: 10
+2024-06-23 15:26:28 Name: 30 Flirty and Thriving - Score: 10
+2024-06-23 15:47:06 Name: The Dragon - Score: 9
+2024-06-23 15:57:18 Name: The Londoners - Score: 2
+2024-06-23 17:54:54 Name: Dami - Score: 4
+2024-06-23 18:11:31 Name: Pengiun Socks - Score: 12
+2024-06-23 19:53:14 Name: Alby - Score: 6
+2024-06-26 11:26:04 Name: The Bolds - Score: 8
+2024-06-26 11:44:44 Name: Triple Threat - Score: 14
+2024-06-26 11:57:04 Name: The Walkers Of Wisdom - Score: 8
+2024-06-26 12:10:19 Name: WXM - Score: 8
+2024-06-26 12:18:32 Name: The Deaf ie - Score: 7
+2024-06-26 13:28:36 Name: TB for Pizza - Score: 7
+2024-06-26 13:50:34 Name: Challenge Point Champions - Score: 7
+2024-06-26 14:03:19 Name: Annie Elephant - Score: 12
+2024-06-26 14:14:47 Name: The Incredibles - Score: 8
+2024-06-26 14:29:54 Name: Misfits - Score: 11
+2024-06-26 15:37:43 Name: Oaks B - Score: 10
+2024-06-26 20:34:58 Name: The Fab Four - Score: 9
+2024-06-27 13:33:53 Name: A and G Not a Disease - Score: 6
+2024-06-27 15:28:28 Name: Lionesses - Score: 11
+2024-06-27 15:51:25 Name: the JAK - Score: 9
+2024-06-27 16:00:51 Name: Rubix - Score: 8
+2024-06-27 18:03:27 Name: Team Kenya - Score: 11
+2024-06-27 18:12:53 Name: Team Canada - Score: 11
+2024-06-27 18:25:12 Name: Team GB - Score: 9
+2024-06-27 18:33:59 Name: Team Japan - Score: 13
+2024-06-27 18:44:10 Name: Team Brazil - Score: 9
+2024-06-27 18:53:55 Name: Team Australia - Score: 10
+2024-06-27 19:48:56 Name: Belchers - Score: 8
+2024-06-27 20:06:33 Name: Kiwis - Score: 12
+2024-06-28 11:29:29 Name: Can Crushers - Score: 11
+2024-06-28 13:12:02 Name: Night Bar - Score: 5
+2024-06-28 13:30:11 Name: Not Fast but Furious - Score: 10
+2024-06-28 15:26:26 Name: Hot Stuff - Score: 6
+2024-06-28 15:48:18 Name: Wild Ones - Score: 1
+2024-06-28 16:00:09 Name: Dream Team - Score: 9
+2024-06-28 16:09:12 Name: Dr. Bones - Score: 12
+2024-06-28 16:37:37 Name: Wild Ones - Score: 6
+2024-06-28 17:54:18 Name: GG - Score: 3
+2024-06-28 18:34:44 Name: GG - Score: 8
+2024-06-28 19:57:37 Name: Diverse Bar Walk - Score: 14
+2024-06-28 20:16:59 Name: MDP - Score: 8
+2024-06-29 12:10:19 Name:  - Score: 8
+2024-06-29 13:31:00 Name: Oblitorators - Score: 7
+2024-06-29 13:41:26 Name: Miami Crispy - Score: 10
+2024-06-29 13:50:43 Name: The Arsenal - Score: 10
+2024-06-29 14:03:05 Name: Championi - Score: 8
+2024-06-29 14:13:09 Name: Barmy Army - Score: 7
+2024-06-29 14:24:04 Name: TLQ - Score: 11
+2024-06-29 15:21:24 Name: Taylor Made Winners - Score: 8
+2024-06-29 15:32:57 Name: Pizza Feet - Score: 11
+2024-06-29 15:45:08 Name: Harveys Helpers - Score: 13
+2024-06-29 15:55:31 Name: Going to Fall Out - Score: 11
+2024-06-29 16:06:41 Name: Jess Sam Andi - Score: 11
+2024-06-29 16:17:47 Name: Team Rocket - Score: 10
+2024-06-29 17:55:06 Name: Better late than pregnant - Score: 5
+2024-06-29 18:04:15 Name: DesperadHoes - Score: 11
+2024-06-29 18:16:00 Name: Sosig - Score: 12
+2024-06-29 18:26:58 Name: Weakest Link - Score: 10
+2024-06-29 18:37:33 Name: S and T - Score: 9
+2024-06-29 18:46:26 Name: Southenders - Score: 10
+2024-06-29 19:57:34 Name: Charlies Angels - Score: 6
+2024-06-29 20:07:41 Name: Frustration Sensations - Score: 1
+2024-06-29 20:19:50 Name: Nicoles Team - Score: 9
+2024-06-29 20:30:21 Name: Sausage Party - Score: 11
+2024-06-29 20:42:05 Name: Choss Dor - Score: 12
+2024-06-29 20:54:09 Name: SSS - Score: 9
+2024-06-29 21:11:43 Name: Frustration Sensations - Score: 9
+2024-06-29 22:00:58 Name: Chows - Score: 14
+2024-06-30 11:24:06 Name: BGT - Score: 7
+2024-06-30 11:43:35 Name: TNT - Score: 9
+2024-06-30 13:24:10 Name: Not in Your Mums Forest - Score: 8
+2024-06-30 13:36:09 Name: Walking Birthday Bunch - Score: 11
+2024-06-30 13:47:32 Name: Super Six - Score: 7
+2024-06-30 13:59:23 Name: The Avengers - Score: 11
+2024-06-30 14:11:30 Name: Dream Team - Score: 11
+2024-06-30 14:20:53 Name: Clarin - Score: 9
+2024-06-30 15:22:43 Name: Boca Harambe - Score: 10
+2024-06-30 15:33:33 Name: Lasswade - Score: 9
+2024-06-30 15:44:26 Name: Lauren Croft - Score: 7
+2024-06-30 15:56:34 Name: Under the Thumb - Score: 10
+2024-06-30 16:08:13 Name: The Four - Score: 9
+2024-06-30 16:18:23 Name: Bonnyrigs - Score: 10
+2024-06-30 17:51:31 Name: Set 8 - Score: 6
+2024-06-30 18:14:58 Name: Fletcher Force - Score: 8
+2024-06-30 18:26:10 Name: Three Idiots - Score: 9
+2024-07-03 11:34:54 Name: Stars and Moons  - Score: 8
+2024-07-03 11:51:36 Name: Beetlejuice - Score: 14
+2024-07-03 12:03:02 Name: Trevors - Score: 7
+2024-07-03 15:40:30 Name: SFC - Score: 8
+2024-07-03 15:50:05 Name: Chlos Hoes - Score: 10
+2024-07-03 16:01:45 Name: Edgelords - Score: 9
+2024-07-03 18:12:29 Name: Salhas Angels - Score: 8
+2024-07-03 18:36:31 Name: Troublesome Trinity - Score: 8
+2024-07-03 18:47:25 Name: Butchers Boys - Score: 10
+2024-07-04 13:51:34 Name: The Brum Chums - Score: 6
+2024-07-04 17:58:18 Name: Team Indecisive - Score: 9
+2024-07-04 18:18:20 Name: Team Teach - Score: 8
+2024-07-04 20:12:30 Name: The Acquaintances - Score: 9
+2024-07-05 13:39:46 Name: Pauls Angels - Score: 6
+2024-07-05 13:59:07 Name: The Wombles - Score: 9
+2024-07-05 14:11:13 Name: Maroon Four - Score: 6
+2024-07-05 14:20:43 Name: The Big Bong Theory - Score: 10
+2024-07-05 15:33:47 Name: Happy Campers - Score: 9
+2024-07-05 18:20:57 Name: Daddy Long Legs - Score: 7
+2024-07-05 19:48:14 Name: The Duo - Score: 8
+2024-07-05 20:08:44 Name: Blackberry - Score: 5
+2024-07-05 20:18:43 Name: Jacked Off - Score: 11
+2024-07-06 11:37:35 Name: Team Goslingham - Score: 14
+2024-07-06 12:00:00 Name: Sixpack of laughter - Score: 9
+2024-07-06 12:10:27 Name: Barrel Scrapers - Score: 10
+2024-07-06 12:21:02 Name: Famous five Plus Grace - Score: 7
+2024-07-06 12:35:05 Name: 31 - Score: 6
+2024-07-06 13:34:37 Name: House Draper - Score: 6
+2024-07-06 13:48:05 Name: Three Queens and a King - Score: 6
+2024-07-06 13:58:09 Name: Partners in Crime - Score: 13
+2024-07-06 14:09:24 Name: S Club Six - Score: 8
+2024-07-06 14:19:51 Name: Angels of the North - Score: 12
+2024-07-06 14:35:13 Name: Polly Roger - Score: 5
+2024-07-06 15:36:15 Name: CR7 - Score: 8
+2024-07-06 15:48:33 Name: Fabulous Four - Score: 9
+2024-07-06 16:01:56 Name: Door Mice - Score: 9
+2024-07-06 16:12:29 Name: Diego Ten - Score: 9
+2024-07-06 16:24:13 Name: Sillly Billlys - Score: 9
+2024-07-06 16:36:13 Name: Groovy Right - Score: 10
+2024-07-06 17:48:28 Name: Babybell - Score: 10
+2024-07-06 18:08:57 Name: LDK - Score: 8
+2024-07-06 18:19:42 Name: LamarDonut - Score: 4
+2024-07-06 18:27:40 Name: Halonas Angels - Score: 13
+2024-07-06 20:13:08 Name: Gregg - Score: 7
+2024-07-06 20:35:24 Name: Birthday Bonds - Score: 5
+2024-07-06 20:52:25 Name: Mixed Bag - Score: 9
+2024-07-06 21:10:02 Name: Deafpower24 - Score: 2
+2024-07-06 22:24:31 Name: Slig - Score: 8
+2024-07-07 11:26:00 Name: The Stokeport Oatcakes - Score: 8
+2024-07-07 11:47:46 Name: CJ - Score: 13
+2024-07-07 12:00:51 Name: Itsanotherwin - Score: 5
+2024-07-07 13:32:48 Name: Dumb and Dumber - Score: 7
+2024-07-07 13:46:49 Name: Mr Hogg - Score: 13
+2024-07-07 13:59:43 Name: The Adventure Cupboards - Score: 9
+2024-07-07 14:11:20 Name: Bumbafleece - Score: 10
+2024-07-07 14:24:03 Name: The Heales Giggle Gang - Score: 7
+2024-07-07 14:35:44 Name: The Wieners - Score: 13
+2024-07-07 15:38:02 Name: Chuckle Brothers - Score: 11
+2024-07-07 16:00:41 Name: Din Family - Score: 9
+2024-07-07 16:13:27 Name: Team Patrick - Score: 7
+2024-07-07 16:25:28 Name: Team Mess - Score: 11
+2024-07-07 16:38:54 Name: Koppel Clan - Score: 9
+2024-07-09 12:03:26 Name:  - Score: 3
+2024-07-09 12:11:03 Name: Smelly Stinky Farts - Score: 9
+2024-07-10 13:24:25 Name: Ancent - Score: 12
+2024-07-10 13:39:27 Name: Orange Juice - Score: 10
+2024-07-10 15:28:11 Name: Delarman - Score: 3
+2024-07-10 15:44:05 Name: Jailbreak - Score: 12
+2024-07-10 18:13:00 Name: The Fanny Schmelars - Score: 9
+2024-07-10 18:29:39 Name: Suprise Suprise! - Score: 9
+2024-07-11 13:31:35 Name: M & J - Score: 10
+2024-07-11 15:31:25 Name: Kanon - Score: 9
+2024-07-11 15:53:35 Name: Prospects - Score: 5
+2024-07-11 16:03:32 Name: Unplugged - Score: 13
+2024-07-11 19:55:59 Name: Auld Hoors - Score: 11
+2024-07-11 20:14:38 Name: Mullet & the Bush - Score: 10
+2024-07-12 11:52:46 Name: Cleggasaurus Rex - Score: 5
+2024-07-12 14:00:30 Name: The Underachievers - Score: 6
+2024-07-12 18:22:32 Name: AA - Score: 7
+2024-07-13 11:35:31 Name: Brogams Pickles - Score: 10
+2024-07-13 11:57:04 Name: Brogams Babes - Score: 10
+2024-07-13 12:05:53 Name: Hyperman Flex - Score: 9
+2024-07-13 12:15:31 Name: Small Ones - Score: 10
+2024-07-13 13:32:34 Name: Ya Toxic - Score: 10
+2024-07-13 13:41:13 Name: Sticky Bandits - Score: 7
+2024-07-13 13:52:32 Name: Barry The Fish - Score: 8
+2024-07-13 14:01:51 Name: We Showed Up - Score: 6
+2024-07-13 14:18:17 Name: The Js - Score: 13
+2024-07-13 14:29:50 Name: Not Fast but Furious - Score: 11
+2024-07-13 15:35:49 Name: Bride Brigade - Score: 6
+2024-07-13 15:56:54 Name: The I Do Crew - Score: 9
+2024-07-13 16:08:08 Name: Steal the moon - Score: 10
+2024-07-13 16:18:32 Name: Hotdogs - Score: 11
+2024-07-13 16:30:25 Name: Matts Mammories - Score: 10
+2024-07-13 18:01:20 Name: Tom Cats - Score: 9
+2024-07-13 18:22:50 Name: Team Sushi - Score: 6
+2024-07-13 18:31:53 Name: G&T - Score: 8
+2024-07-13 18:43:51 Name: Steeze - Score: 6
+2024-07-13 18:54:52 Name: Duckheads - Score: 6
+2024-07-13 19:54:09 Name: Team Wood - Score: 9
+2024-07-13 20:13:00 Name: Lost - Score: 5
+2024-07-14 11:40:09 Name: Fantastic Four - Score: 11
+2024-07-14 12:00:35 Name: Fabulous Four - Score: 4
+2024-07-14 12:14:37 Name: Big Backs - Score: 5
+2024-07-14 12:25:02 Name: Miljosh - Score: 4
+2024-07-14 12:37:04 Name: The Three Lions - Score: 10
+2024-07-14 12:43:31 Name: Miljosh - Score: 9
+2024-07-14 13:33:29 Name: The Andrews - Score: 9
+2024-07-14 14:01:35 Name: The Uzells - Score: 11
+2024-07-14 14:09:48 Name: The Mingo Masters - Score: 12
+2024-07-14 15:36:47 Name: Team Aroush - Score: 8
+2024-07-14 15:57:30 Name: Team Arrow - Score: 10
+2024-07-14 16:08:32 Name: MARG - Score: 11
+2024-07-14 16:20:11 Name: Glazed Gulb Jamun - Score: 10
+2024-07-14 17:58:01 Name: Team Hamzah - Score: 10
+2024-07-14 18:18:19 Name: Scottish Bumblebees - Score: 8
+2024-07-14 18:28:41 Name: Incognito - Score: 8
+2024-07-17 12:53:38 Name: You are a Popstar - Score: 10
+2024-07-17 13:12:28 Name: Team Red - Score: 10
+2024-07-17 13:21:43 Name: Es - Score: 8
+2024-07-17 14:39:49 Name: The Joeys - Score: 9
+2024-07-17 15:00:07 Name: The Wallabies - Score: 9
+2024-07-17 16:28:38 Name: Steak & Chips - Score: 10
+2024-07-17 16:47:48 Name: Spicy Girls - Score: 9
+2024-07-17 18:47:03 Name: The Challengers - Score: 11
+2024-07-18 13:11:17 Name: Win or Booze - Score: 6
+2024-07-18 14:55:23 Name: Father and Daughter - Score: 11
+2024-07-18 18:38:55 Name: Team Orangutan - Score: 12
+2024-07-18 19:00:31 Name: Team Titanium - Score: 10
+2024-07-18 19:14:10 Name: The Booze Brothers - Score: 10
+2024-07-18 19:26:49 Name: MCs - Score: 8
+2024-07-18 20:36:10 Name: Team Shed - Score: 11
+2024-07-19 11:27:27 Name: Lyndrew - Score: 4
+2024-07-19 13:28:11 Name: Lyndrew - Score: 12
+2024-07-19 14:45:55 Name: Cilla Blacks Fav Snacks - Score: 10
+2024-07-19 15:03:32 Name: Tripping Point - Score: 10
+2024-07-19 16:30:14 Name: Mistry Madness - Score: 8
+2024-07-19 17:02:23 Name: RIZ - Score: 7
+2024-07-19 18:25:01 Name: Posh Pandas - Score: 7
+2024-07-19 18:43:11 Name: Trash Pandas - Score: 11
+2024-07-19 20:22:12 Name: Fred Elliot - Score: 7
+2024-07-19 20:40:03 Name: Pot Noodles - Score: 11
+2024-07-20 11:07:51 Name: Lizards - Score: 9
+2024-07-20 11:25:47 Name: Asian Invasion - Score: 9
+2024-07-20 13:02:21 Name: The Three Amigos - Score: 13
+2024-07-20 13:20:40 Name: Big Cook Little Cook - Score: 10
+2024-07-20 13:30:26 Name: Second Borns - Score: 9
+2024-07-20 13:39:52 Name: The Chippie Teas - Score: 13
+2024-07-20 13:51:20 Name: Dumb and Dumber - Score: 9
+2024-07-20 14:44:59 Name: Stuarts Team - Score: 8
+2024-07-20 15:05:36 Name: The Yorkshire Puds - Score: 10
+2024-07-20 15:14:50 Name: Glenny - Score: 10
+2024-07-20 15:24:49 Name: Pookies - Score: 8
+2024-07-20 15:36:19 Name: So Sad Gaviscon - Score: 10
+2024-07-20 16:25:38 Name: A Few Screws Loose - Score: 12
+2024-07-20 16:38:03 Name: The Slug Club - Score: 8
+2024-07-20 16:47:31 Name: Campbell Clan - Score: 11
+2024-07-20 16:58:56 Name: KJ - Score: 9
+2024-07-20 17:08:51 Name: Big John Little John - Score: 13
+2024-07-20 17:20:42 Name: Dumb and Dumber - Score: 10
+2024-07-20 18:36:44 Name: C U Next Tuesday - Score: 9
+2024-07-20 18:45:54 Name: The Mavericks - Score: 11
+2024-07-20 18:57:38 Name: Bodega Boys - Score: 6
+2024-07-20 19:07:02 Name: Kyles Angels - Score: 11
+2024-07-20 19:17:38 Name: Judy and the Baldies - Score: 10
+2024-07-20 19:31:16 Name: Bostons - Score: 6
+2024-07-20 20:15:40 Name: It Takes Two To Tango - Score: 12
+2024-07-20 20:37:34 Name: Jordan and Izzy - Score: 6
+2024-07-20 20:47:21 Name: Three Brain Cells - Score: 12
+2024-07-20 20:56:53 Name: Oriel - Score: 13
+2024-07-20 21:08:13 Name: Scotts Tots - Score: 11
+2024-07-21 11:15:26 Name: Jilga - Score: 2
+2024-07-21 11:34:46 Name: Blue Pancake Dragon - Score: 10
+2024-07-21 11:46:36 Name: Hopeless - Score: 15
+2024-07-21 11:56:51 Name: Four Bad Knees - Score: 7
+2024-07-21 12:14:54 Name: Jilga - Score: 12
+2024-07-21 13:15:35 Name: Shrox - Score: 11
+2024-07-21 14:52:27 Name: The Karellens - Score: 11
+2024-07-21 15:04:33 Name: Funbobby - Score: 8
+2024-07-21 15:18:33 Name: baldylocks - Score: 13
+2024-07-21 15:27:45 Name: Ginger Nut - Score: 8
+2024-07-21 15:41:56 Name: Morgan Girls - Score: 7
+2024-07-21 15:52:56 Name: Zaras Team - Score: 6
+2024-07-21 16:32:50 Name: Cadabra - Score: 11
+2024-07-21 16:49:33 Name: Super six - Score: 10
+2024-07-22 14:39:50 Name: Team MCM - Score: 6
+2024-07-22 16:29:18 Name: Brazucas - Score: 2
+2024-07-22 16:46:12 Name: The Deen Team - Score: 7
+2024-07-22 17:24:20 Name: Brazucas - Score: 7
+2024-07-23 11:51:46 Name:  - Score: 0
+2024-07-24 11:12:40 Name: Lozs Angels - Score: 4
+2024-07-24 11:34:30 Name: The Winners - Score: 9
+2024-07-24 11:44:58 Name: Fantastic Four plus 2 - Score: 8
+2024-07-24 11:57:31 Name: Th3 T3am - Score: 6
+2024-07-24 12:44:03 Name: Dosey Ducks - Score: 7
+2024-07-24 13:00:56 Name: Sync - Score: 5
+2024-07-24 14:44:25 Name: The Latecomers - Score: 8
+2024-07-24 15:05:32 Name: The Doctors - Score: 9
+2024-07-24 15:16:03 Name: MCFC - Score: 8
+2024-07-24 15:27:12 Name: The Losers - Score: 10
+2024-07-24 15:41:05 Name: Team Brooklyn - Score: 9
+2024-07-24 16:27:18 Name: Mega Shark - Score: 8
+2024-07-24 16:47:56 Name: G6 - Score: 9
+2024-07-24 16:58:18 Name: Megans Team - Score: 9
+2024-07-24 17:09:04 Name: Kenth Kaos - Score: 8
+2024-07-24 17:21:25 Name: Rxider Clxn - Score: 10
+2024-07-24 18:26:42 Name: City till i die - Score: 8
+2024-07-24 18:37:38 Name: Nike Tribe - Score: 6
+2024-07-24 18:48:18 Name: The Weakest Link - Score: 10
+2024-07-24 18:59:38 Name: The Cilla Blacks - Score: 7
+2024-07-24 19:09:45 Name: Challenge Champions - Score: 10
+2024-07-24 19:24:11 Name: The Xandar Pandas - Score: 10
+2024-07-24 20:30:00 Name: Hyrule Kings - Score: 8
+2024-07-25 12:54:05 Name: Pandas - Score: 9
+2024-07-25 13:15:24 Name: Mr and Mrs - Score: 9
+2024-07-25 13:25:08 Name: Double Trouble - Score: 8
+2024-07-25 14:41:40 Name: Champions - Score: 12
+2024-07-25 14:50:49 Name: Team Braeden - Score: 9
+2024-07-25 15:01:16 Name: Fionas Furious Fists - Score: 11
+2024-07-25 15:10:58 Name: Team B - Score: 10
+2024-07-25 15:20:25 Name: The Cheethams - Score: 8
+2024-07-25 15:30:12 Name: Team of No Name - Score: 9
+2024-07-25 16:29:43 Name: The Vipers - Score: 9
+2024-07-25 16:50:23 Name: Pointless Challenegers - Score: 11
+2024-07-25 17:01:14 Name: Team Miriam - Score: 8
+2024-07-25 17:09:49 Name: Team Assan - Score: 8
+2024-07-25 18:26:17 Name: Matt - Score: 8
+2024-07-25 18:48:26 Name: Red - Score: 9
+2024-07-25 18:57:55 Name: The I do crew - Score: 10
+2024-07-25 19:05:52 Name: Low expectations - Score: 9
+2024-07-25 20:33:58 Name: Team Lewis - Score: 9
+2024-07-26 12:58:56 Name: Emilys Team - Score: 9
+2024-07-26 13:17:53 Name: Sassy Sisters - Score: 3
+2024-07-26 13:29:38 Name: Janice - Score: 13
+2024-07-26 13:37:35 Name: Sapopies - Score: 12
+2024-07-26 13:51:35 Name: Sassy Sisters - Score: 11
+2024-07-26 14:52:19 Name: HAYNB - Score: 12
+2024-07-26 16:31:07 Name: Lauras Team - Score: 8
+2024-07-26 16:50:25 Name: Dirty Weekender - Score: 8
+2024-07-26 18:16:30 Name: Challengers - Score: 5
+2024-07-26 18:31:19 Name: Pickle and P - Score: 14
+2024-07-26 20:13:37 Name: Team Carbs - Score: 8
+2024-07-26 20:32:15 Name: Team Pentagon - Score: 9
+2024-07-27 11:09:35 Name: Debs Dimwits - Score: 11
+2024-07-27 11:38:05 Name: Donald Ducks - Score: 10
+2024-07-27 12:59:44 Name: Lets Get Mitchd - Score: 7
+2024-07-27 13:10:50 Name: The Vodka Shots - Score: 8
+2024-07-27 13:20:44 Name: Pick Us One - Score: 10
+2024-07-27 13:30:40 Name: All Miller No Filler - Score: 11
+2024-07-27 13:40:33 Name: Awesome 4 - Score: 11
+2024-07-27 13:52:28 Name: STEN - Score: 11
+2024-07-27 14:47:47 Name: Buck Shot Muffins - Score: 9
+2024-07-27 14:56:59 Name: DXB - Score: 5
+2024-07-27 15:07:48 Name: Villa Originals - Score: 8
+2024-07-27 15:17:05 Name: Beaver United - Score: 6
+2024-07-27 15:26:09 Name: Giggle Gang - Score: 6
+2024-07-27 15:37:39 Name: Bad Eye Sight - Score: 9
+2024-07-27 16:30:04 Name: The Bear Clan - Score: 10
+2024-07-27 16:40:42 Name: Challenge Point Champions - Score: 8
+2024-07-27 16:50:39 Name: Team Cosmo - Score: 10
+2024-07-27 16:59:45 Name: Trent Army - Score: 11
+2024-07-27 17:09:45 Name: Fergie - Score: 8
+2024-07-27 17:20:44 Name: Kamias Team - Score: 12
+2024-07-27 18:27:39 Name: Rubix - Score: 8
+2024-07-27 18:45:49 Name: Stormy - Score: 10
+2024-07-27 18:55:34 Name: Full Banks - Score: 9
+2024-07-27 19:04:42 Name: Scourtney - Score: 10
+2024-07-27 20:10:55 Name: Hangry Angry - Score: 8
+2024-07-27 20:32:32 Name: Fast and Curious - Score: 8
+2024-07-27 20:41:02 Name: Keffy - Score: 6
+2024-07-27 21:55:06 Name: Mistry Machine - Score: 9
+2024-07-27 22:12:32 Name: Joes Team - Score: 7
+2024-07-28 11:13:27 Name: John & Co - Score: 14
+2024-07-28 12:54:44 Name: Pink Sheep - Score: 6
+2024-07-28 13:06:21 Name: Team Glass - Score: 10
+2024-07-28 13:17:37 Name: Bogies - Score: 5
+2024-07-28 13:28:04 Name: Tuna Mayo - Score: 8
+2024-07-28 13:38:06 Name: The Peels - Score: 8
+2024-07-28 13:48:35 Name: Carricks RW Army - Score: 3
+2024-07-28 14:02:06 Name: No Lucks Given - Score: 5
+2024-07-28 14:47:21 Name: Team Dog Cheese - Score: 8
+2024-07-28 15:06:32 Name: Baldylocks  - Score: 10
+2024-07-28 15:19:42 Name: The Clacker Pack - Score: 8
+2024-07-28 15:29:00 Name: On Point - Score: 7
+2024-07-28 16:42:54 Name: Food - Score: 4
+2024-07-28 18:29:05 Name: Team Winx - Score: 9
+2024-07-28 18:49:12 Name: Team Bellingham - Score: 7
+2024-07-28 19:03:30 Name: Team Scallywags - Score: 10
+2024-07-28 20:32:37 Name: Salt & Pepper - Score: 0
+2024-07-28 20:40:37 Name: Salt & Pepper - Score: 8
+2024-07-29 12:52:33 Name: Goose Wranglers - Score: 8
+2024-07-29 13:13:26 Name: RAK ATTACK - Score: 6
+2024-07-29 13:22:59 Name: Up The Mags - Score: 7
+2024-07-29 14:35:14 Name: Pink Bunnies - Score: 4
+2024-07-29 14:57:22 Name: Sheridans - Score: 6
+2024-07-29 15:06:07 Name: Tornados - Score: 6
+2024-07-29 15:15:42 Name: Boltoners - Score: 8
+2024-07-31 12:57:10 Name: Jacks Team - Score: 9
+2024-07-31 13:14:23 Name: Up the Borough - Score: 7
+2024-07-31 14:34:56 Name: The Benchwarmers - Score: 11
+2024-07-31 14:53:23 Name: Clova26 - Score: 3
+2024-07-31 15:04:38 Name: The Goodwins - Score: 9
+2024-07-31 15:16:44 Name: The Grants - Score: 5
+2024-07-31 16:26:21 Name: C Squared - Score: 10
+2024-07-31 16:44:43 Name: Carmens Team - Score: 7
+2024-07-31 18:34:03 Name: Marys Favourite - Score: 8
+2024-07-31 18:46:11 Name: Backend Boys - Score: 5
+2024-07-31 18:59:12 Name: Three Peas in a Pod - Score: 7
+2024-07-31 19:08:25 Name: Girlband and Tom - Score: 8
+2024-07-31 19:18:06 Name: Sausage Party - Score: 7
+2024-07-31 19:31:52 Name: Team Ionic - Score: 8
+2024-08-01 13:07:10 Name: Yallah Babah - Score: 10
+2024-08-01 13:16:58 Name: There Will Be Blood - Score: 6
+2024-08-01 13:34:01 Name: The Moorons - Score: 10
+2024-08-01 14:37:03 Name: Diddily Squats - Score: 8
+2024-08-01 14:46:48 Name: Team Khiro - Score: 6
+2024-08-01 14:55:43 Name: The Jacques - Score: 5
+2024-08-01 15:10:00 Name: Eilifany - Score: 7
+2024-08-01 15:20:12 Name: No Regrets only Memories - Score: 12
+2024-08-01 15:29:17 Name: Just Happy To Be Here - Score: 14
+2024-08-01 15:38:09 Name: Team Tyron - Score: 12
+2024-08-01 15:44:39 Name: Eilifany - Score: 13
+2024-08-01 20:15:22 Name: Max Wins - Score: 9
+2024-08-01 20:23:32 Name: Olgagrad - Score: 12
+2024-08-01 20:44:00 Name: Team Orange - Score: 10
+2024-08-02 12:55:56 Name: FAWK - Score: 8
+2024-08-02 13:22:50 Name: 4FS - Score: 9
+2024-08-02 14:51:44 Name: The Habibis - Score: 9
+2024-08-02 15:21:47 Name: The Dunbars - Score: 12
+2024-08-02 16:35:54 Name: Team Trevayne - Score: 10
+2024-08-02 17:06:17 Name: Team Star - Score: 9
+2024-08-02 20:17:44 Name: Team Katie - Score: 9
+2024-08-02 20:45:05 Name: Team Shelley - Score: 6
+2024-08-03 11:18:58 Name: Team Bride - Score: 7
+2024-08-03 11:45:40 Name: Pointloss - Score: 10
+2024-08-03 12:57:09 Name: The Three Idiots - Score: 4
+2024-08-03 13:05:39 Name: Banana Splits - Score: 6
+2024-08-03 13:19:37 Name: Richards Angels - Score: 10
+2024-08-03 13:28:21 Name: The Cheggers - Score: 13
+2024-08-03 13:39:30 Name: Headless Chickens - Score: 8
+2024-08-03 13:50:03 Name: Sex Drugs Sausage Rolls - Score: 11
+2024-08-03 14:44:08 Name: Twenty Forever - Score: 12
+2024-08-03 14:53:55 Name: Breakfast Club - Score: 8
+2024-08-03 15:04:53 Name: Jens Hens One - Score: 11
+2024-08-03 15:15:55 Name: Low Expectations - Score: 14
+2024-08-03 15:25:03 Name: Big Mac and Fries - Score: 13
+2024-08-03 15:35:37 Name: Jens Hens Two - Score: 14
+2024-08-03 16:23:20 Name: 6 Legends - Score: 13
+2024-08-03 16:32:50 Name: Binge - Score: 11
+2024-08-03 16:43:25 Name: Guys Gals and Gary - Score: 10
+2024-08-03 16:58:35 Name: Red Panda - Score: 10
+2024-08-03 17:10:19 Name: Alpha Wolf Squad - Score: 12
+2024-08-03 17:21:17 Name: Waddler - Score: 9
+2024-08-03 17:32:19 Name: Gorilla Party - Score: 10
+2024-08-03 18:34:54 Name: Five Stack - Score: 12
+2024-08-03 18:45:29 Name: Whats the Point - Score: 13
+2024-08-03 18:58:26 Name: Furious Five - Score: 10
+2024-08-03 19:08:55 Name: The Chicken Dippers - Score: 10
+2024-08-03 19:19:17 Name: Heathers Team - Score: 11
+2024-08-03 19:30:27 Name: Mafiras - Score: 10
+2024-08-03 20:22:22 Name: Gav Is Gone - Score: 8
+2024-08-03 20:31:15 Name: The A Team - Score: 8
+2024-08-03 20:43:36 Name: Tz Girls - Score: 9
+2024-08-03 20:54:16 Name: Noway No 1 - Score: 9
+2024-08-03 21:05:11 Name: Martini - Score: 10
+2024-08-04 11:24:41 Name: Team Loonie - Score: 10
+2024-08-04 13:11:05 Name: The Misfits - Score: 9
+2024-08-04 13:41:42 Name: The Slayers - Score: 10
+2024-08-04 14:53:31 Name: The Bootleg Mark Chapmans - Score: 9
+2024-08-04 15:03:29 Name: Team Damber - Score: 10
+2024-08-04 15:25:42 Name: The Winners - Score: 10
+2024-08-04 15:36:13 Name: Team Muneebah - Score: 9
+2024-08-04 16:36:14 Name: Earth Wind and Fire - Score: 10
+2024-08-04 17:06:00 Name: The Five Sisters - Score: 6
+2024-08-04 18:29:33 Name: The Trifecta of Trouble - Score: 6
+2024-08-04 18:40:32 Name: The Trifecta of Trouble - Score: 10
+2024-08-04 20:17:54 Name: The Auld Triangle - Score: 10
+2024-08-04 20:26:48 Name: Spirits - Score: 9
+2024-08-04 20:44:17 Name: Special - Score: 11
+2024-08-05 13:05:31 Name: Ball and Chain - Score: 10
+2024-08-05 14:41:08 Name: The Forresters - Score: 15
+2024-08-05 16:33:52 Name: Twinning is Winning - Score: 10
+2024-08-05 17:01:11 Name: The Powerpuff Girls - Score: 9
+2024-08-05 18:28:04 Name: Jackson Four - Score: 10
+2024-08-07 11:21:24 Name: Slater Massive - Score: 11
+2024-08-07 11:33:41 Name: FGC - Score: 13
+2024-08-07 11:45:39 Name: Kellys Heroes - Score: 10
+2024-08-07 11:54:17 Name: Funky 3 - Score: 11
+2024-08-07 12:03:37 Name: Sisters - Score: 10
+2024-08-07 12:48:51 Name: Half and Half - Score: 10
+2024-08-07 14:32:52 Name: Team VC - Score: 12
+2024-08-07 16:39:54 Name: Team Scott - Score: 10
+2024-08-08 13:03:43 Name: Gail Platt - Score: 10
+2024-08-08 13:32:18 Name: Skibidi Squidward - Score: 9
+2024-08-08 14:39:26 Name: Mensa - Score: 10
+2024-08-08 14:50:56 Name: Team Mike - Score: 5
+2024-08-08 14:58:55 Name: Team Ray - Score: 12
+2024-08-08 15:11:00 Name: Butterflies - Score: 9
+2024-08-08 15:21:43 Name: Superman - Score: 4
+2024-08-08 15:33:12 Name: Travellers - Score: 11
+2024-08-08 15:42:12 Name: Heart - Score: 8
+2024-08-08 16:34:03 Name: Team David - Score: 13
+2024-08-08 17:08:30 Name: Team Ellie - Score: 11
+2024-08-08 18:37:23 Name: Carrot Sandwich - Score: 14
+2024-08-08 18:50:02 Name: Covis - Score: 8
+2024-08-08 19:08:25 Name: Courgette Sandiwch - Score: 12
+2024-08-08 19:16:53 Name: Super Loch - Score: 13
+2024-08-08 20:22:21 Name: Sausage Rolls - Score: 15
+2024-08-08 20:33:28 Name: Fish and Chips - Score: 10
+2024-08-08 20:59:00 Name: Triple Threat - Score: 16
+2024-08-08 21:13:36 Name: Sams Ryders - Score: 13
+2024-08-09 13:05:20 Name: Lyle Lyle Crocodile - Score: 11
+2024-08-09 13:18:40 Name: Its Only a Game - Score: 6
+2024-08-09 13:35:05 Name: Yorkshires Finest - Score: 8
+2024-08-09 13:44:48 Name: Flying Penguins - Score: 11
+2024-08-09 13:57:30 Name: Max Wins - Score: 12
+2024-08-09 14:07:06 Name: Tartan Titans - Score: 13
+2024-08-09 15:06:01 Name: The Flop Squad - Score: 10
+2024-08-09 15:27:37 Name: Lees Team - Score: 10
+2024-08-09 15:35:07 Name: M&Ms - Score: 8
+2024-08-09 16:41:19 Name: Team Birthday Boy - Score: 8
+2024-08-09 16:48:54 Name: Team Sophia - Score: 9
+2024-08-09 17:03:10 Name: Champions - Score: 10
+2024-08-09 17:15:13 Name: Team Bigfoot - Score: 10
+2024-08-09 17:23:43 Name: Team Instinct - Score: 15
+2024-08-09 18:38:56 Name: Team Summer - Score: 10
+2024-08-09 19:05:32 Name: Not Bad - Score: 10
+2024-08-09 20:20:33 Name: Plaster - Score: 8
+2024-08-09 20:31:14 Name: Team Tan - Score: 10
+2024-08-09 20:40:56 Name: Team Ehsan - Score: 6
+2024-08-09 20:50:25 Name: Floppy Fish - Score: 7
+2024-08-09 21:00:28 Name: Team Aliza - Score: 5
+2024-08-10 11:42:11 Name: Slay Queens - Score: 10
+2024-08-10 13:02:06 Name: The Huns - Score: 8
+2024-08-10 13:11:29 Name: M and M - Score: 11
+2024-08-10 13:23:51 Name: The Rockstars - Score: 11
+2024-08-10 13:34:34 Name: TicTacs - Score: 9
+2024-08-10 13:43:13 Name: The Yorkies - Score: 8
+2024-08-10 13:53:59 Name: The Incredibles - Score: 10
+2024-08-10 14:59:02 Name: Team Oluwalayomi - Score: 5
+2024-08-10 15:06:39 Name: Dobby CLub - Score: 11
+2024-08-10 15:25:16 Name: Tats with Bad Backs - Score: 11
+2024-08-10 15:36:06 Name: Team Michelle - Score: 10
+2024-08-10 16:18:30 Name: Sticky Vickies - Score: 10
+2024-08-10 16:26:58 Name: Geordie Gals - Score: 9
+2024-08-10 16:35:39 Name: Team Debbie - Score: 9
+2024-08-10 16:49:00 Name: Les Manielle - Score: 12
+2024-08-10 16:58:10 Name: Dundees - Score: 10
+2024-08-10 17:08:58 Name: Team Kainat - Score: 8
+2024-08-10 17:18:38 Name: House Trish - Score: 7
+2024-08-10 18:30:39 Name: The Nerds - Score: 10
+2024-08-10 18:40:38 Name: The Siblings - Score: 6
+2024-08-10 18:53:15 Name: Bride n Bitches - Score: 10
+2024-08-10 19:01:58 Name: The Aines - Score: 12
+2024-08-10 19:12:16 Name: ALED - Score: 12
+2024-08-10 19:20:55 Name: Chapter 35 - Score: 4
+2024-08-10 20:22:44 Name: The Two Ps - Score: 10
+2024-08-10 20:47:56 Name: Pod - Score: 13
+2024-08-10 21:58:32 Name: C&M - Score: 6
+2024-08-11 11:21:54 Name: Team Micky - Score: 10
+2024-08-11 13:07:37 Name: Woo Woo - Score: 14
+2024-08-11 14:45:23 Name: MLP - Score: 5
+2024-08-11 14:58:36 Name: Cornstones - Score: 7
+2024-08-11 15:16:37 Name: BDJY - Score: 11
+2024-08-11 15:26:31 Name: The Wright Family - Score: 10
+2024-08-11 16:37:14 Name: The Corns - Score: 12
+2024-08-11 18:38:05 Name: The Avengers - Score: 8
+2024-08-11 20:07:42 Name: F Squared - Score: 10
+2024-08-11 20:36:32 Name: Baz FC - Score: 10
+2024-08-12 13:00:48 Name: Chicken Wings - Score: 9
+2024-08-12 13:09:38 Name: Mighty Ducks - Score: 11
+2024-08-12 13:29:24 Name: The Sigmas - Score: 8
+2024-08-12 14:54:00 Name: Expect The Unexpected - Score: 10
+2024-08-12 15:03:35 Name: Martin Garrix - Score: 8
+2024-08-12 15:22:48 Name: Scrippers - Score: 9
+2024-08-12 16:37:37 Name: Lilliput Lunatic Legends - Score: 8
+2024-08-12 18:42:45 Name: Kashis - Score: 9
+2024-08-12 20:16:34 Name: The Pissy Boys - Score: 11
+2024-08-12 20:41:30 Name: Planet Of The Apes - Score: 11
+2024-08-14 12:58:50 Name: The Wombats - Score: 10
+2024-08-14 13:21:59 Name: Team Muskaan - Score: 8
+2024-08-14 14:51:44 Name: Raygun - Score: 10
+2024-08-14 15:03:55 Name: Winton Global Solutions - Score: 10
+2024-08-14 15:23:33 Name: Dale Wintons Soul - Score: 9
+2024-08-14 15:33:59 Name: Spec Opps - Score: 11
+2024-08-14 16:34:17 Name: The Craigelsons - Score: 8
+2024-08-14 16:43:03 Name: Loner - Score: 12
+2024-08-14 17:04:40 Name: The Cheetahs - Score: 6
+2024-08-14 18:42:13 Name: Team Numaan - Score: 6
+2024-08-14 18:55:15 Name: Team Numaan - Score: 10
+2024-08-14 20:08:46 Name: Bolton Babes - Score: 14
+2024-08-15 12:48:33 Name: The Irelanders - Score: 2
+2024-08-15 13:04:04 Name: The Poopy Heads - Score: 8
+2024-08-15 13:13:33 Name: Team James - Score: 10
+2024-08-15 13:24:16 Name: Team Colette - Score: 10
+2024-08-15 13:34:28 Name: The Bobby Dazzlers - Score: 12
+2024-08-15 13:42:28 Name: Win Win Chicken Din - Score: 8
+2024-08-15 13:51:37 Name: Three Quayles on a Quest - Score: 10
+2024-08-15 13:58:15 Name: The Irelanders - Score: 10
+2024-08-15 14:52:11 Name: The Kiwis - Score: 14
+2024-08-15 16:35:55 Name: Lollies - Score: 10
+2024-08-15 16:44:24 Name: Jarina - Score: 10
+2024-08-15 17:01:42 Name: Power Couple - Score: 10
+2024-08-15 20:13:59 Name: Glory Hole In The Wall - Score: 11
+2024-08-15 20:46:10 Name: The Weakest Twink - Score: 11
+2024-08-16 13:10:18 Name: Bad Cattitude - Score: 8
+2024-08-16 13:22:12 Name: The Gang - Score: 8
+2024-08-16 13:40:09 Name: Viaduct - Score: 10
+2024-08-16 13:49:35 Name: Three and a half men - Score: 11
+2024-08-16 14:43:48 Name: Team Grace - Score: 0
+2024-08-16 14:49:56 Name: Team Grace - Score: 2
+2024-08-16 14:59:59 Name: Die Hard - Score: 15
+2024-08-16 15:09:23 Name: The Hudson Hero - Score: 9
+2024-08-16 15:19:50 Name: Smartinies - Score: 10
+2024-08-16 15:28:24 Name: Team Taylor - Score: 10
+2024-08-16 16:35:08 Name: Daddy Pig Disciples - Score: 9
+2024-08-16 16:59:42 Name: Go Bananas - Score: 10
+2024-08-16 20:22:05 Name: Sensational Therapists - Score: 11
+2024-08-16 20:32:11 Name: LinkedIn Warriors - Score: 8
+2024-08-16 20:49:20 Name: Helping Hands - Score: 10
+2024-08-16 20:58:03 Name: Joshuas Team - Score: 13
+2024-08-17 11:12:45 Name: The Albions - Score: 9
+2024-08-17 11:39:17 Name: The B Team - Score: 10
+2024-08-17 12:55:12 Name: The Waqy Warriorz - Score: 7
+2024-08-17 13:05:11 Name: Caz - Score: 10
+2024-08-17 13:14:13 Name: Team Marcell 1 - Score: 10
+2024-08-17 13:22:57 Name: Oregano - Score: 7
+2024-08-17 13:37:34 Name: Juicy - Score: 8
+2024-08-17 13:49:29 Name: Team Marcell 2 - Score: 10
+2024-08-17 13:57:23 Name: L plus L - Score: 10
+2024-08-17 14:44:25 Name: Sammys Angels - Score: 10
+2024-08-17 14:53:58 Name: Dorys Forgetmenots - Score: 8
+2024-08-17 15:05:44 Name: Bikers - Score: 8
+2024-08-17 15:25:03 Name: Scooters - Score: 10
+2024-08-17 15:33:52 Name: The New Yorkers - Score: 8
+2024-08-17 15:40:24 Name: Dont Choke - Score: 11
+2024-08-17 16:16:31 Name: Brummie Old Sports - Score: 10
+2024-08-17 16:25:06 Name: The Oversleepers - Score: 10
+2024-08-17 16:35:02 Name: Bowling For Gezpacho - Score: 8
+2024-08-17 16:49:22 Name: Ctrl Alt Defeat - Score: 9
+2024-08-17 16:59:45 Name: Anstars - Score: 8
+2024-08-17 17:09:59 Name: Class - Score: 4
+2024-08-17 17:18:36 Name: Izzys Angels - Score: 8
+2024-08-17 18:42:15 Name: Team Awkward - Score: 10
+2024-08-17 18:55:30 Name: Fantastic Five - Score: 10
+2024-08-17 19:04:29 Name: Joel No More - Score: 9
+2024-08-17 19:15:12 Name: The Zombies - Score: 11
+2024-08-17 19:24:56 Name: MC Bald - Score: 11
+2024-08-17 20:18:27 Name: Nadiyas Team - Score: 9
+2024-08-17 20:28:56 Name: Mikicadele - Score: 8
+2024-08-17 20:40:15 Name: Thorpe Rostron - Score: 11
+2024-08-17 20:51:45 Name: Ricksdetrix - Score: 11
+2024-08-17 21:01:40 Name: Dream Team - Score: 10
+2024-08-17 21:11:38 Name: DJ Bizzle - Score: 9
+2024-08-18 13:10:47 Name: The Accountants - Score: 6
+2024-08-18 13:18:47 Name: The G Team - Score: 10
+2024-08-18 13:40:51 Name: Uno - Score: 10
+2024-08-18 14:50:43 Name: The Plum Suckers - Score: 4
+2024-08-18 14:59:09 Name: Betty Swallocks - Score: 9
+2024-08-18 15:08:35 Name: Deez Nuts - Score: 11
+2024-08-18 15:21:01 Name: The Demure Demure - Score: 7
+2024-08-18 15:31:30 Name: Team Chunky Monkey - Score: 9
+2024-08-18 16:42:15 Name: Team Jilo - Score: 9
+2024-08-18 16:50:26 Name: Chicken Nuggets - Score: 10
+2024-08-18 17:02:55 Name: Northern Bandits - Score: 11
+2024-08-18 17:12:15 Name: Pineapple - Score: 8
+2024-08-18 17:21:49 Name: Nightmare on Newton St - Score: 9
+2024-08-18 18:34:36 Name: Tank & Crew - Score: 7
+2024-08-18 18:42:34 Name: Chicken Mayo - Score: 12
+2024-08-18 19:02:48 Name: E&Z - Score: 7
+2024-08-19 11:13:11 Name: antidisestablishment - Score: 9
+2024-08-19 11:24:11 Name: Nightmare Team - Score: 8
+2024-08-19 11:41:18 Name: Fantastic 5 - Score: 6
+2024-08-19 13:00:23 Name: Team 11 - Score: 10
+2024-08-19 13:25:30 Name: Scott McTominay39 - Score: 13
+2024-08-19 14:44:31 Name: The Legends - Score: 9
+2024-08-19 14:52:49 Name: Asian Power - Score: 8
+2024-08-19 15:13:16 Name: Selfish Toads - Score: 8
+2024-08-19 16:26:49 Name: Megamind - Score: 10
+2024-08-19 16:47:51 Name: Team Stevie - Score: 7
+2024-08-19 18:39:23 Name: Purple Cobra - Score: 10
+2024-08-19 18:51:11 Name: Stranger Things SC  - Score: 14
+2024-08-19 19:10:43 Name: Average Joes - Score: 11
+2024-08-19 19:20:23 Name: Sumaiyas Team - Score: 10
+2024-08-19 20:20:33 Name: Wonder Women - Score: 10
+2024-08-21 11:18:02 Name: A Hacker gang  - Score: 8
+2024-08-21 12:57:07 Name: Kinner Crew - Score: 8
+2024-08-21 13:06:36 Name: Team Lauren - Score: 9
+2024-08-21 13:25:03 Name: The Valiance - Score: 8
+2024-08-21 14:56:57 Name: Time Keepers - Score: 10
+2024-08-21 15:05:21 Name: Georges Team - Score: 10
+2024-08-21 15:18:07 Name: Billy Bonker and the Vets - Score: 11
+2024-08-21 15:27:52 Name: Time Wasters - Score: 6
+2024-08-21 15:38:23 Name: The Shamrocks - Score: 11
+2024-08-21 16:20:56 Name: Team Faiza - Score: 8
+2024-08-21 16:30:45 Name: The A Team - Score: 7
+2024-08-21 16:39:45 Name: Go Faster Stripes - Score: 8
+2024-08-21 16:54:12 Name: D & D - Score: 11
+2024-08-21 17:04:34 Name: Hopeful Rabbits - Score: 10
+2024-08-21 17:15:40 Name: Oj - Score: 11
+2024-08-21 17:23:52 Name: Big Dads - Score: 11
+2024-08-21 18:26:56 Name: Clearly Trivial - Score: 10
+2024-08-21 18:36:17 Name: Catch Fraud Not Feelings - Score: 8
+2024-08-21 18:44:39 Name: One Hit Wonders - Score: 9
+2024-08-21 18:59:41 Name: Engage - Score: 8
+2024-08-21 19:10:33 Name: The Kabubble - Score: 11
+2024-08-21 19:18:47 Name: Idiot Sandwich - Score: 9
+2024-08-21 19:29:27 Name: Engage Metering - Score: 11
+2024-08-21 20:26:39 Name: Bleam Tessed - Score: 11
+2024-08-21 20:34:56 Name: Mentally Challenged Point - Score: 10
+2024-08-21 20:58:41 Name: TTT - Score: 9
+2024-08-22 12:53:59 Name: Mann Clan - Score: 11
+2024-08-22 14:47:09 Name: J&H - Score: 9
+2024-08-22 14:57:28 Name: Bust - Score: 9
+2024-08-22 15:17:48 Name: Sister Act - Score: 10
+2024-08-22 16:42:49 Name: Point Pursuers - Score: 8
+2024-08-22 17:08:20 Name: Hot Cholent - Score: 8
+2024-08-22 18:34:55 Name: Queen of the North - Score: 10
+2024-08-22 19:00:16 Name: Winner Winner - Score: 10
+2024-08-23 11:18:57 Name: Helllfire Club - Score: 10
+2024-08-23 11:44:26 Name: Antidisestablishment - Score: 10
+2024-08-23 13:02:27 Name: Sausage Rolls - Score: 8
+2024-08-23 13:11:01 Name: The Ibrahims - Score: 9
+2024-08-23 13:27:51 Name: The Newtonians - Score: 8
+2024-08-23 14:48:58 Name: Groovy Gang - Score: 10
+2024-08-23 15:16:12 Name: The Kaiser Chiefs - Score: 7
+2024-08-23 16:26:23 Name: South Londons Finest - Score: 8
+2024-08-23 18:16:50 Name: The Cousins - Score: 6
+2024-08-23 20:02:47 Name: Wingmans Wingmen - Score: 13
+2024-08-24 13:11:46 Name: The Mellors - Score: 7
+2024-08-24 13:20:00 Name: Ginger Twist - Score: 15
+2024-08-24 13:44:11 Name: The Jackson Three - Score: 10
+2024-08-24 13:55:41 Name: Blended - Score: 10
+2024-08-24 14:48:25 Name: The Boxing Day Party - Score: 10
+2024-08-24 15:00:33 Name: Moam - Score: 10
+2024-08-24 15:11:35 Name: Mughli Massive - Score: 11
+2024-08-24 15:25:42 Name: Sheffpool - Score: 12
+2024-08-24 15:35:18 Name: Baldylocks - Score: 8
+2024-08-24 16:21:44 Name: Super Six - Score: 12
+2024-08-24 16:31:30 Name: Safina - Score: 6
+2024-08-24 16:40:57 Name: Jags - Score: 11
+2024-08-24 16:54:47 Name: Jessica Two - Score: 8
+2024-08-24 17:15:35 Name: Jessica One - Score: 11
+2024-08-24 17:25:41 Name: Kim - Score: 10
+2024-08-24 18:32:34 Name: The Brownies - Score: 11
+2024-08-24 18:43:45 Name: Emelias Team - Score: 11
+2024-08-24 18:57:17 Name: The Three Muskateers - Score: 10
+2024-08-24 19:07:29 Name: JT - Score: 12
+2024-08-24 19:17:15 Name: The Zebras - Score: 8
+2024-08-24 19:26:57 Name: The Millingtons - Score: 10
+2024-08-24 20:16:57 Name: AZAM - Score: 9
+2024-08-25 11:23:48 Name: Frollie - Score: 9
+2024-08-25 11:35:02 Name: Snack Heads - Score: 8
+2024-08-25 11:52:55 Name: Fanta Pubes - Score: 11
+2024-08-25 12:01:48 Name: Tuby Hurricanes - Score: 10
+2024-08-25 12:58:17 Name: The Bradlies - Score: 10
+2024-08-25 13:27:11 Name: The Duddingtons - Score: 9
+2024-08-25 14:53:31 Name: Six Packs - Score: 10
+2024-08-25 15:02:44 Name: BRATZ - Score: 9
+2024-08-25 15:27:51 Name: Team Trol - Score: 10
+2024-08-25 15:38:50 Name: Just an Inchident - Score: 0
+2024-08-25 17:07:41 Name: Norfolk and Chance - Score: 13
+2024-08-25 17:15:40 Name: Higgs and the Bosons - Score: 13
+2024-08-25 18:28:12 Name: Shadows - Score: 6
+2024-08-25 18:38:23 Name: Team Chicas - Score: 8
+2024-08-25 18:51:41 Name: Birthday - Score: 10
+2024-08-25 19:01:21 Name: Fab Five - Score: 8
+2024-08-25 19:12:04 Name: Happy - Score: 6
+2024-08-25 19:21:58 Name: Golden Eagles - Score: 4
+2024-08-25 20:13:09 Name: Team Cobra - Score: 10
+2024-08-25 20:23:20 Name: ARAM - Score: 8
+2024-08-25 20:52:16 Name: Team Taj - Score: 8
+2024-08-26 11:20:24 Name: Team Chen - Score: 12
+2024-08-26 11:33:12 Name: The Cousins - Score: 12
+2024-08-26 11:42:12 Name: Helmets - Score: 10
+2024-08-26 11:52:12 Name: Neds Birthday Squad - Score: 8
+2024-08-26 12:01:49 Name: The Goodwins - Score: 10
+2024-08-26 13:01:48 Name: Misfits - Score: 9
+2024-08-26 13:11:23 Name: Hammerheads - Score: 10
+2024-08-26 13:25:00 Name: Six Singhs - Score: 9
+2024-08-26 13:34:34 Name: Team Jon - Score: 7
+2024-08-26 13:46:59 Name: Lagosians - Score: 8
+2024-08-26 13:57:11 Name: LightningPotatoes - Score: 8
+2024-08-26 14:34:08 Name: Whateva - Score: 11
+2024-08-26 14:42:32 Name: Dream Power - Score: 11
+2024-08-26 14:52:54 Name: The Challengers - Score: 12
+2024-08-26 15:08:33 Name: Total Stitch - Score: 8
+2024-08-26 15:17:36 Name: G Dogs - Score: 5
+2024-08-26 15:28:10 Name: Team Power - Score: 11
+2024-08-26 15:38:26 Name: SAHHRA - Score: 10
+2024-08-26 16:36:46 Name: Hamzas Team - Score: 11
+2024-08-26 16:46:57 Name: Brainy Betties - Score: 10
+2024-08-26 16:58:57 Name: The Worthys - Score: 10
+2024-08-26 17:06:59 Name: Slack Attack - Score: 10
+2024-08-26 17:16:32 Name: Dream Team - Score: 10
+2024-08-26 18:38:20 Name: TNC - Score: 10
+2024-08-26 19:06:15 Name: Team Eajaz - Score: 11
+2024-08-28 11:13:07 Name: Electric Blue - Score: 7
+2024-08-28 11:37:57 Name: Cornish Pirates - Score: 12
+2024-08-28 13:03:49 Name: Team Rabiyah - Score: 9
+2024-08-28 13:28:12 Name: Trevor Forever - Score: 10
+2024-08-28 14:49:25 Name: Team Joanne - Score: 8
+2024-08-28 14:58:11 Name: Unhappy Campers - Score: 14
+2024-08-28 15:10:16 Name: Double P - Score: 10
+2024-08-28 15:20:16 Name: The Best Teammates - Score: 9
+2024-08-28 15:31:52 Name: Philma McKracken - Score: 11
+2024-08-28 15:43:56 Name: Not A Chance - Score: 10
+2024-08-28 16:28:33 Name: P Squared - Score: 10
+2024-08-28 16:54:30 Name: B Squared - Score: 9
+2024-08-28 18:34:09 Name: Double Trouble - Score: 8
+2024-08-28 18:47:13 Name: Team Hammad - Score: 8
+2024-08-28 19:03:08 Name: The Spitlings - Score: 11
+2024-08-28 19:13:42 Name: Alvin and The Chipmunks - Score: 9
+2024-08-29 12:53:00 Name: Megaminds - Score: 12
+2024-08-29 13:18:50 Name: Ds - Score: 10
+2024-08-29 14:48:02 Name: Dark Wood - Score: 12
+2024-08-29 15:16:38 Name: Almonds - Score: 13
+2024-08-29 18:41:24 Name: H-Bomb - Score: 9
+2024-08-29 20:17:33 Name: The Smoggys - Score: 10
+2024-08-30 11:18:05 Name: Anastasias Team - Score: 9
+2024-08-30 11:46:31 Name: TMT & JMS - Score: 8
+2024-08-30 13:16:05 Name: Super Bobs - Score: 10
+2024-08-30 13:33:02 Name: Fighterz - Score: 11
+2024-08-30 13:41:48 Name: Mental Challenge - Score: 12
+2024-08-30 14:50:58 Name: The Legends - Score: 9
+2024-08-30 14:59:31 Name: The Robsons - Score: 6
+2024-08-30 15:20:28 Name: The Piri Piris - Score: 10
+2024-08-30 15:27:50 Name: Ying and Yang - Score: 10
+2024-08-30 16:29:18 Name: Scarboreans - Score: 10
+2024-08-30 16:37:53 Name: Humble Beginnings - Score: 11
+2024-08-30 16:57:19 Name: Asbestos Testers - Score: 11
+2024-08-30 17:06:07 Name: Blue Team - Score: 11
+2024-08-30 18:35:27 Name: Three Muskabeers - Score: 11
+2024-08-30 18:43:13 Name: Titans - Score: 10
+2024-08-30 18:56:57 Name: SMurphy - Score: 10
+2024-08-30 19:04:33 Name: Team Jamie - Score: 10
+2024-08-30 19:13:58 Name: Team Tall - Score: 14
+2024-08-30 20:25:27 Name: Team Hopscotch - Score: 10
+2024-08-30 20:51:17 Name: Mute The Babysitter - Score: 12
+2024-08-31 11:32:34 Name: The Barnsley Bangers - Score: 11
+2024-08-31 11:46:23 Name: Wedding Bells - Score: 10
+2024-08-31 11:55:56 Name: Daves Babes - Score: 10
+2024-08-31 12:05:28 Name: Gretas Team - Score: 8
+2024-08-31 12:16:43 Name: Friends of Honour - Score: 10
+2024-08-31 12:54:41 Name: Noodle Fusion - Score: 10
+2024-08-31 13:05:22 Name: Choby - Score: 13
+2024-08-31 13:15:09 Name: Willy Wonka - Score: 9
+2024-08-31 13:28:10 Name: Haggis Hunters - Score: 10
+2024-08-31 13:38:34 Name: Sloth Pig - Score: 11
+2024-08-31 13:47:19 Name: Asian Persuation - Score: 6
+2024-08-31 13:57:05 Name: Tranmere Tribe - Score: 10
+2024-08-31 14:36:45 Name: Team Danielle - Score: 6
+2024-08-31 14:45:42 Name: O Donkiltons - Score: 10
+2024-08-31 14:54:24 Name: The Jolly Todgers - Score: 10
+2024-08-31 15:07:17 Name: Sarahs Pens Hens - Score: 7
+2024-08-31 15:18:33 Name: H and H - Score: 10
+2024-08-31 15:28:33 Name: Smells Like Team Spirit - Score: 10
+2024-08-31 15:38:42 Name: Shaw n Paul - Score: 11
+2024-08-31 16:18:07 Name: The Three Muskateers - Score: 12
+2024-08-31 16:27:10 Name: DMZ - Score: 8
+2024-08-31 16:37:57 Name: Beauty and Brains - Score: 9
+2024-08-31 16:49:17 Name: Bolton Bravos - Score: 12
+2024-08-31 17:01:21 Name: Deenz Crew - Score: 8
+2024-08-31 17:11:13 Name: Super Miks - Score: 8
+2024-08-31 17:21:48 Name: Three Degrees PE Teacher - Score: 9
+2024-08-31 18:29:09 Name: Tuna Duo - Score: 11
+2024-08-31 18:40:11 Name: SFC - Score: 11
+2024-08-31 18:54:15 Name: Team Sannah - Score: 9
+2024-08-31 19:03:07 Name: Als Pals - Score: 10
+2024-08-31 19:12:56 Name: The Javaids - Score: 7
+2024-08-31 19:22:54 Name: The Bonnicks - Score: 11
+2024-09-01 11:17:29 Name: Puzzle Bums - Score: 13
+2024-09-01 11:48:34 Name: Champions - Score: 8
+2024-09-01 12:52:34 Name: AllStars - Score: 10
+2024-09-01 13:04:27 Name: Magical Hesteros - Score: 13
+2024-09-01 13:14:33 Name: Yorkshire Puds - Score: 13
+2024-09-01 13:29:32 Name: The Old Birds - Score: 10
+2024-09-01 13:38:19 Name: Three Amigos - Score: 6
+2024-09-01 13:49:16 Name: The Rizzlers - Score: 9
+2024-09-01 13:59:14 Name: Blue Army - Score: 9
+2024-09-01 14:43:06 Name: Jobless - Score: 10
+2024-09-01 14:53:30 Name: Underworked and Overpaid - Score: 13
+2024-09-01 15:03:36 Name: Olivers Army - Score: 6
+2024-09-01 15:16:17 Name: Overworked and Underpaid - Score: 4
+2024-09-01 15:27:19 Name: Glasgow Gang - Score: 4
+2024-09-01 15:39:56 Name: MJR - Score: 10
+2024-09-01 15:48:33 Name: NCA - Score: 7
+2024-09-01 15:57:22 Name: Olivers Army - Score: 12
+2024-09-01 16:45:47 Name: The Riders of Rohan - Score: 10
+2024-09-01 16:57:44 Name: The Legends - Score: 12
+2024-09-01 17:15:42 Name: Nippy Nippy - Score: 15
+2024-09-02 13:07:17 Name: The Specials - Score: 11
+2024-09-02 14:48:30 Name: Sjulli - Score: 15
+2024-09-02 15:15:46 Name: Nubious - Score: 12
+2024-09-02 16:40:38 Name: Team Spaghetti  - Score: 10
+2024-09-02 16:54:26 Name: Nimras Team - Score: 9
+2024-09-02 17:05:58 Name: Get Served - Score: 9
+2024-09-02 17:17:51 Name: Team Sushi - Score: 10
+2024-09-02 17:28:50 Name: Green Gang - Score: 10
+2024-09-02 18:27:34 Name: The Timmys - Score: 10
+2024-09-02 19:00:07 Name: Team A - Score: 10
+2024-09-02 19:10:08 Name: Team C - Score: 14
+2024-09-02 19:31:50 Name: Team B - Score: 13
+2024-09-04 13:00:37 Name: Double Trouble - Score: 8
+2024-09-04 13:30:34 Name: Mr & Mrs Smith - Score: 14
+2024-09-04 14:46:45 Name: The Barry Steamrollers - Score: 16
+2024-09-04 18:35:28 Name: Meat & Two Veggies - Score: 11
+2024-09-04 18:44:35 Name: Spinese - Score: 13
+2024-09-04 19:06:11 Name: Numptys - Score: 11
+2024-09-04 20:24:06 Name: Heena Hereos - Score: 10
+2024-09-04 20:50:34 Name: Taco Munchers - Score: 11
+2024-09-05 13:03:46 Name: The Squires - Score: 13
+2024-09-05 15:55:30 Name: ? - Score: 15
+2024-09-05 18:27:59 Name: Rainbow Rockers - Score: 11
+2024-09-05 18:44:13 Name: Scott One - Score: 12
+2024-09-05 18:53:14 Name: Scott Three - Score: 10
+2024-09-05 19:03:14 Name: Go Boozy - Score: 12
+2024-09-05 19:13:49 Name: Scott Two - Score: 9
+2024-09-05 19:24:31 Name: Winners - Score: 12
+2024-09-06 14:43:37 Name: Mistrys - Score: 12
+2024-09-06 16:34:35 Name: Hosts with the Most - Score: 16
+2024-09-06 18:35:28 Name: Youre my Wonderwall - Score: 11
+2024-09-06 18:44:14 Name: Pyramids and Curries - Score: 10
+2024-09-06 19:03:42 Name: Harrys Carrots - Score: 14
+2024-09-07 13:08:22 Name: Girls Rule Boys Drool - Score: 16
+2024-09-07 13:21:30 Name: Martha Squad - Score: 14
+2024-09-07 13:39:50 Name: TGIF - Score: 11
+2024-09-07 13:49:38 Name: The Smoggies - Score: 9
+2024-09-07 14:31:53 Name: Pika Boo - Score: 10
+2024-09-07 14:59:52 Name: The Lloyds - Score: 9
+2024-09-07 16:39:41 Name: Slow and Steady - Score: 10
+2024-09-07 16:48:46 Name: Meal Deal - Score: 14
+2024-09-07 17:00:09 Name: Team Green - Score: 14
+2024-09-07 17:10:34 Name: Aarons Team - Score: 10
+2024-09-07 17:18:59 Name: Liam and Noel - Score: 13
+2024-09-07 18:49:36 Name: Unstopables - Score: 10
+2024-09-07 19:00:38 Name: Lord of the Rings - Score: 13
+2024-09-07 19:22:34 Name: LITERALLY just sat down - Score: 12
+2024-09-07 19:32:09 Name: The Non Liabilities - Score: 13
+2024-09-07 20:23:47 Name: Barely Athletic - Score: 11
+2024-09-07 20:50:30 Name: The Naternator - Score: 8
+2024-09-08 11:21:54 Name: Spicers - Score: 9
+2024-09-08 11:42:02 Name: Dream Team - Score: 11
+2024-09-08 12:54:04 Name: TCs - Score: 10
+2024-09-08 14:48:39 Name: The Lewis Legends - Score: 9
+2024-09-08 14:58:58 Name: Lady and the Tramp - Score: 10
+2024-09-08 15:19:28 Name: The Fab 4 - Score: 11
+2024-09-08 16:35:50 Name: Sneaky Four of Clubs  - Score: 13
+2024-09-08 16:44:12 Name: KRANKIE - Score: 14
+2024-09-08 17:07:58 Name: Hafe - Score: 9
+2024-09-08 17:17:19 Name: The MVPs - Score: 14
+2024-09-08 18:38:43 Name: The Cramp Twins - Score: 9
+2024-09-08 18:47:49 Name: The Bulldogs - Score: 9
+2024-09-08 19:07:49 Name: Garrys Team - Score: 14
+2024-09-09 14:58:06 Name: Jelouise - Score: 10
+2024-09-09 16:32:37 Name: Yappers - Score: 11
+2024-09-09 16:59:44 Name: Turkey Teeth - Score: 12
+2024-09-09 18:35:35 Name: Dynamic Trio - Score: 10
+2024-09-09 18:47:05 Name: 3 Is Better Than 4 - Score: 12
+2024-09-09 19:06:27 Name: The Winners - Score: 12
+2024-09-09 19:17:51 Name: Birthday Queens - Score: 12
+2024-09-12 13:03:03 Name: PHC - Score: 12
+2024-09-12 14:44:41 Name: The Southerners - Score: 12
+2024-09-12 16:26:35 Name: Pookies - Score: 10
+2024-09-12 18:38:23 Name: Crow - Score: 11
+2024-09-12 19:09:07 Name: Team Yetunde - Score: 13
+2024-09-12 20:22:24 Name: Fucking Motorbikes - Score: 9
+2024-09-13 13:29:15 Name: Mugs - Score: 13
+2024-09-13 13:37:19 Name: Barpop Warriors - Score: 15
+2024-09-13 14:37:14 Name: M&S - Score: 13
+2024-09-13 20:33:36 Name: Kymica 2  - Score: 10
+2024-09-13 21:12:26 Name: Kymica 1 - Score: 10
+2024-09-14 11:21:42 Name: Squishies - Score: 10
+2024-09-14 11:50:46 Name: Peas in a Pod - Score: 10
+2024-09-14 12:49:00 Name: Team Jasmine - Score: 10
+2024-09-14 12:59:43 Name: The MACs - Score: 10
+2024-09-14 13:08:54 Name: Bridesmaids - Score: 12
+2024-09-14 13:19:51 Name: The Grants - Score: 11
+2024-09-14 13:30:02 Name: The BOOKIES - Score: 12
+2024-09-14 13:38:01 Name: Wife of the Party - Score: 13
+2024-09-14 13:48:29 Name: Laurens Team - Score: 11
+2024-09-14 14:35:28 Name: Hudds Hunnis - Score: 12
+2024-09-14 14:45:51 Name: Spring Rolls - Score: 12
+2024-09-14 14:53:40 Name: Little and Large - Score: 9
+2024-09-14 15:08:03 Name: Avocados - Score: 14
+2024-09-14 15:17:02 Name: Newry Rock - Score: 11
+2024-09-14 15:27:40 Name: Alcoholics - Score: 11
+2024-09-14 15:35:55 Name: The Baby Girls - Score: 10
+2024-09-14 16:35:57 Name: G and T - Score: 13
+2024-09-14 16:45:30 Name: Georgies Gals - Score: 9
+2024-09-14 16:57:42 Name: The Rizzlers - Score: 12
+2024-09-14 17:10:51 Name: Everton - Score: 10
+2024-09-14 17:19:55 Name: The Bing Bings - Score: 12
+2024-09-14 17:32:03 Name: Sigma Skibbidy - Score: 12
+2024-09-14 18:35:22 Name: Number Yang - Score: 11
+2024-09-14 18:45:02 Name: Team Peter - Score: 12
+2024-09-14 19:03:50 Name: Ying and Yang - Score: 7
+2024-09-14 19:11:55 Name: CUatSix - Score: 13
+2024-09-14 20:21:50 Name: Luke - Score: 10
+2024-09-14 20:49:01 Name: Team Tadiwa - Score: 10
+2024-09-14 22:00:38 Name: Yorkshire! - Score: 12
+2024-09-15 11:14:24 Name: 3 Idiots - Score: 10
+2024-09-15 11:38:17 Name: Man City - Score: 9
+2024-09-15 12:57:38 Name: L & K - Score: 14
+2024-09-15 13:25:35 Name: Super Six - Score: 12
+2024-09-15 14:49:17 Name: NFI - Score: 9
+2024-09-15 14:57:39 Name: The Disappointments - Score: 11
+2024-09-15 15:07:00 Name: Amys Team - Score: 11
+2024-09-15 15:16:08 Name: Zabinas Team - Score: 11
+2024-09-15 15:30:41 Name: The Sloths - Score: 12
+2024-09-15 15:41:25 Name: Kannon - Score: 11
+2024-09-15 16:40:33 Name: Fungis - Score: 10
+2024-09-15 17:09:48 Name: Spares & Repairs - Score: 12
+2024-09-15 18:28:16 Name: Mak Fong - Score: 10
+2024-09-16 13:04:37 Name: Team Alpha - Score: 10
+2024-09-16 13:32:40 Name: MD41 - Score: 12
+2024-09-18 14:40:33 Name: Leopard Print Bitches - Score: 11
+2024-09-18 18:28:34 Name: Social Piranhas - Score: 11
+2024-09-18 20:16:52 Name: Carricks Crew - Score: 12
+2024-09-18 22:02:53 Name: Shaken not Kirked - Score: 10
+2024-09-18 22:31:13 Name: Team John - Score: 15
+2024-09-19 12:54:29 Name: Gin & Tonic - Score: 11
+2024-09-19 13:03:40 Name: The Blessings - Score: 10
+2024-09-19 13:12:01 Name: Heads 1  - Score: 10
+2024-09-19 13:24:39 Name: Heads 3  - Score: 10
+2024-09-19 13:40:14 Name: Pesky Scoundrels - Score: 8
+2024-09-19 13:50:59 Name: Heads 2  - Score: 11
+2024-09-19 13:59:36 Name: Proper Sorts - Score: 10
+2024-09-19 14:56:18 Name: Ians Angels - Score: 8
+2024-09-19 15:07:33 Name: Team Avis - Score: 11
+2024-09-19 15:28:15 Name: Mini Suitcase Crew - Score: 10
+2024-09-19 16:39:30 Name: Lee Mac - Score: 10
+2024-09-19 16:49:16 Name: Team Farmaggedon - Score: 10
+2024-09-19 17:03:22 Name: Toor De Force - Score: 9
+2024-09-19 17:14:23 Name: Bruce Forsyth - Score: 9
+2024-09-19 17:28:24 Name: Messaging Mavericks - Score: 9
+2024-09-19 17:37:17 Name: Dale Winton - Score: 10
+2024-09-19 18:44:25 Name: Lawless Champions - Score: 13
+2024-09-19 18:55:44 Name: Audit Avengers - Score: 13
+2024-09-19 19:18:27 Name: Winning Team - Score: 11
+2024-09-19 19:26:54 Name: Egg Heads - Score: 10
+2024-09-20 11:12:24 Name: Neils Little Lines - Score: 9
+2024-09-20 11:22:16 Name: Team Axel - Score: 11
+2024-09-20 11:41:41 Name: Spiced Rum - Score: 10
+2024-09-20 14:49:17 Name: The Trio - Score: 9
+2024-09-20 14:57:48 Name: Team Fatty Ratty - Score: 12
+2024-09-20 18:41:31 Name: Team Sachin - Score: 10
+2024-09-20 19:08:54 Name: Als Army - Score: 10
+2024-09-20 20:28:38 Name: Avengers - Score: 9
+2024-09-20 20:55:28 Name: Champions - Score: 7
+2024-09-20 21:57:47 Name: Beefy Burgers - Score: 9
+2024-09-21 11:24:58 Name: The Mavericks - Score: 11
+2024-09-21 11:32:43 Name: Romeos Angels - Score: 12
+2024-09-21 11:51:02 Name: Team Olivia - Score: 10
+2024-09-21 12:57:08 Name: Big Lads SixtyNine - Score: 10
+2024-09-21 13:06:13 Name: Team Barnes - Score: 11
+2024-09-21 13:17:56 Name: Bevs Babes - Score: 10
+2024-09-21 13:27:03 Name: Muppets - Score: 11
+2024-09-21 13:37:24 Name: Birthday Bros - Score: 11
+2024-09-21 13:48:21 Name: Clueless - Score: 11
+2024-09-21 14:37:59 Name: The Avengers - Score: 11
+2024-09-21 14:47:08 Name: Four Sins - Score: 10
+2024-09-21 15:00:40 Name: DDDD - Score: 10
+2024-09-21 15:14:07 Name: Shits N Gigs - Score: 10
+2024-09-21 15:25:50 Name: Double Trouble - Score: 9
+2024-09-21 15:36:48 Name: The Dream Team - Score: 12
+2024-09-21 16:41:28 Name: Bold and Ginger - Score: 10
+2024-09-21 16:52:36 Name: Nastushka - Score: 12
+2024-09-21 17:14:07 Name: Majestic Panda - Score: 10
+2024-09-21 17:23:05 Name: Team Zaynah - Score: 8
+2024-09-21 18:30:48 Name: Dangerous Sarahnade - Score: 11
+2024-09-21 18:39:48 Name: The Braindeads - Score: 11
+2024-09-21 18:54:55 Name: Hannahs Team - Score: 11
+2024-09-21 19:04:13 Name: White Fox - Score: 9
+2024-09-21 19:14:06 Name: Platting Two - Score: 10
+2024-09-21 19:24:59 Name: Marshmarrow - Score: 10
+2024-09-21 20:34:55 Name: Jordon & Kate - Score: 15
+2024-09-21 20:48:31 Name: Half Cut & Clueless - Score: 11
+2024-09-21 20:59:18 Name: Encrypted Emporers - Score: 11
+2024-09-21 21:08:07 Name: Challenger Champs - Score: 10
+2024-09-21 21:19:54 Name: TEA - Score: 8
+2024-09-22 11:28:31 Name: Jackies - Score: 8
+2024-09-22 11:40:07 Name: RAREPack - Score: 10
+2024-09-22 12:03:00 Name: Gary - Score: 14
+2024-09-22 12:13:24 Name: Man City - Score: 10
+2024-09-22 13:20:49 Name: Team Nazza - Score: 14
+2024-09-22 14:58:08 Name: I Ate My Grandma - Score: 10
+2024-09-22 15:30:31 Name: Spots - Score: 11
+2024-09-22 16:51:53 Name: The Yavengers - Score: 10
+2024-09-22 17:03:46 Name: 4 Skibidi Rizzlers - Score: 11
+2024-09-22 17:16:47 Name: Super Seven - Score: 7
+2024-09-22 17:27:52 Name: Moon Marshmallows - Score: 9
+2024-09-22 17:39:05 Name: Stranger Things - Score: 10
+2024-09-22 19:10:32 Name: Team Headache - Score: 11
+2024-09-23 12:55:54 Name: Antidisestablishment - Score: 10
+2024-09-23 14:48:17 Name: Blonde Babes - Score: 11
+2024-09-23 18:42:17 Name: Team One - Score: 11
+2024-09-23 18:55:46 Name: Team Three - Score: 11
+2024-09-23 19:05:34 Name: Team Five - Score: 12
+2024-09-23 19:17:12 Name: Team Two - Score: 12
+2024-09-23 19:27:10 Name: Team Four - Score: 11
+2024-09-23 20:22:09 Name: Cop Dolls - Score: 10
+2024-09-23 20:49:21 Name: Team Rhoda - Score: 12
+2024-09-25 12:57:27 Name: Victor - Score: 10
+2024-09-25 13:23:52 Name: Team One - Score: 10
+2024-09-25 14:41:17 Name: Pickle Patrol - Score: 12
+2024-09-25 16:26:33 Name: JLS - Score: 10
+2024-09-25 16:51:31 Name: Vamp Duo - Score: 16
+2024-09-25 18:35:33 Name: M Locks plus Leah - Score: 12
+2024-09-26 11:43:15 Name:  - Score: 14
+2024-09-26 12:48:16 Name: ? - Score: 10
+2024-09-26 16:48:12 Name: The Ninjas - Score: 14
+2024-09-26 18:41:27 Name: Ice Cream - Score: 18
+2024-09-26 18:50:29 Name: Shawarma - Score: 10
+2024-09-26 19:12:16 Name: Morad - Score: 11
+2024-09-26 19:21:48 Name: Pink Fluffy Racoons - Score: 11
+2024-09-26 20:17:31 Name: oOoHh FrIeNdS - Score: 10
+2024-09-26 20:43:45 Name: Ask Them - Score: 15
+2024-09-27 13:05:49 Name: Two EZ - Score: 10
+2024-09-27 13:35:28 Name: The Bella Hadids - Score: 12
+2024-09-27 14:50:39 Name: Bubblepops - Score: 14
+2024-09-27 18:38:34 Name: Zaytomi - Score: 11
+2024-09-27 19:07:37 Name: Big cook Little cook - Score: 8
+2024-09-28 11:25:59 Name: Slay the countdownboots - Score: 11
+2024-09-28 11:52:55 Name: Slaying at 40 - Score: 8
+2024-09-28 13:04:12 Name: Matts Mates - Score: 10
+2024-09-28 13:13:21 Name: The A Team - Score: 7
+2024-09-28 13:37:34 Name: Harrietes Biatches - Score: 12
+2024-09-28 13:48:42 Name: Thistle Thrashers - Score: 13
+2024-09-28 13:59:08 Name: The Mantarays - Score: 11
+2024-09-28 14:07:37 Name: Take 3 minus 1 - Score: 12
+2024-09-28 14:33:19 Name: Preston Youth - Score: 11
+2024-09-28 14:45:38 Name: Preston Oldies - Score: 10
+2024-09-28 14:55:29 Name: The Real Ones - Score: 10
+2024-09-28 15:06:56 Name: Sigma Swashbucklers - Score: 8
+2024-09-28 15:20:02 Name: Brothers Grimm - Score: 10
+2024-09-28 15:40:13 Name: Tommy Big - Score: 13
+2024-09-28 16:26:30 Name: Tyrone - Score: 8
+2024-09-28 16:36:21 Name: Sunnys Invincibles - Score: 11
+2024-09-28 16:45:52 Name: Ness - Score: 13
+2024-09-28 17:00:57 Name: The A Team - Score: 10
+2024-09-28 17:10:51 Name: Centaurians - Score: 11
+2024-09-28 17:22:02 Name: Anonymous Tips - Score: 10
+2024-09-28 17:32:41 Name: Dancing Horses - Score: 13
+2024-09-28 18:24:27 Name: Duck Squad - Score: 1
+2024-09-28 18:34:05 Name: CM - Score: 7
+2024-09-28 18:44:27 Name: Louises Team - Score: 9
+2024-09-28 18:57:59 Name: Frankfurters - Score: 10
+2024-09-28 19:09:04 Name: Shrodingers Cats - Score: 15
+2024-09-28 19:20:06 Name: TQ - Score: 10
+2024-09-28 19:31:55 Name: Tenacity - Score: 10
+2024-09-28 20:17:12 Name: Team Foxes - Score: 8
+2024-09-28 20:27:16 Name: Team Better than You - Score: 11
+2024-09-28 20:40:36 Name: S & K - Score: 10
+2024-09-28 20:50:57 Name: Loumoo - Score: 10
+2024-09-28 21:02:38 Name: Jackson Five - Score: 15
+2024-09-28 21:11:25 Name: C U Next Tuesday - Score: 12
+2024-09-29 11:23:41 Name: Powerhouse Supervisors - Score: 11
+2024-09-29 11:31:31 Name: Team Funhouse - Score: 12
+2024-09-29 11:55:02 Name: Your Worst Nightmare - Score: 11
+2024-09-29 13:15:42 Name: Balloteletubbies - Score: 8
+2024-09-29 14:45:11 Name: The Swifts - Score: 10
+2024-09-29 14:54:03 Name: The Cadets - Score: 10
+2024-09-29 15:05:13 Name: The Harry Barrys - Score: 10
+2024-09-29 15:19:27 Name: The Legends - Score: 13
+2024-09-29 15:29:46 Name: The Blues - Score: 8
+2024-09-29 15:39:45 Name: Team Daniela - Score: 11
+2024-09-29 15:48:53 Name: Tzatziki - Score: 10
+2024-09-29 16:38:04 Name: Team Racheal - Score: 11
+2024-09-29 16:48:44 Name: Dr Fox - Score: 10
+2024-09-29 17:10:38 Name: Team Bassam - Score: 11
+2024-09-29 17:19:12 Name: Fat Fifties - Score: 11
+2024-09-29 18:46:20 Name: Lous Crew - Score: 12
+2024-09-30 13:17:39 Name: Matty & Alys - Score: 14
+2024-09-30 13:47:24 Name: Team Shabaz - Score: 10
+2024-09-30 15:28:18 Name: Himis Angels - Score: 10
+2024-09-30 16:38:24 Name: F Forty Six - Score: 10
+2024-10-02 11:32:32 Name: ? - Score: 0
+2024-10-02 13:02:21 Name: Simple Minds - Score: 10
+2024-10-02 15:01:51 Name: H G Lengends - Score: 11
+2024-10-02 15:15:41 Name: Action Seekers - Score: 10
+2024-10-02 15:25:41 Name: The Holdups - Score: 10
+2024-10-02 15:36:05 Name: Charlies Angels - Score: 9
+2024-10-02 15:47:05 Name: Antidisestablishment - Score: 10
+2024-10-02 18:35:43 Name: Seany Shoulders - Score: 13
+2024-10-02 19:05:12 Name: Below Average - Score: 9
+2024-10-02 20:23:20 Name: Scott Mctominay - Score: 12
+2024-10-02 20:32:42 Name: Beetlejuice - Score: 13
+2024-10-02 20:44:42 Name: Jackson Five - Score: 14
+2024-10-02 20:58:25 Name: Les Manielle - Score: 15
+2024-10-02 21:09:59 Name: John and Co - Score: 12
+2024-10-03 15:04:40 Name: The Vandals - Score: 11
+2024-10-03 15:17:45 Name: The Avengers  - Score: 5
+2024-10-03 15:28:55 Name: The Bright Clarks - Score: 10
+2024-10-03 15:40:15 Name: Kirstens Angels - Score: 8
+2024-10-03 15:50:16 Name: Quizteama Aguilera - Score: 10
+2024-10-03 18:41:46 Name: Cheers! - Score: 9
+2024-10-04 14:56:58 Name: Disobaes - Score: 11
+2024-10-04 15:04:36 Name: BRATZ - Score: 8
+2024-10-04 15:26:15 Name: Disoboys - Score: 11
+2024-10-04 16:27:55 Name: P and P - Score: 10
+2024-10-04 18:37:16 Name: Wilkys Always Late - Score: 10
+2024-10-04 19:03:12 Name: The B Team - Score: 9
+2024-10-04 20:26:37 Name: Stephs Bitches - Score: 9
+2024-10-04 21:52:03 Name: Diddy or didnty - Score: 11
+2024-10-04 22:16:22 Name: Top Bins - Score: 14
+2024-10-05 11:19:38 Name: The Higgins Travellers - Score: 6
+2024-10-05 11:46:37 Name: Goat Hearders - Score: 10
+2024-10-05 12:58:48 Name: Squiggly Squad - Score: 10
+2024-10-05 13:10:10 Name: Wardy Mafia - Score: 11
+2024-10-05 13:24:58 Name: Dales Team - Score: 10
+2024-10-05 13:48:02 Name: MIAs - Score: 12
+2024-10-05 13:57:06 Name: Partners in Crime - Score: 10
+2024-10-05 14:08:33 Name: Straw Hats - Score: 14
+2024-10-05 14:17:19 Name: Team Annie - Score: 8
+2024-10-05 14:39:29 Name: Cheesy Oatcakes - Score: 11
+2024-10-05 14:49:31 Name: The Titans - Score: 9
+2024-10-05 15:01:16 Name: The Underdogs - Score: 10
+2024-10-05 15:14:03 Name: The Greedy Reidy - Score: 13
+2024-10-05 15:26:01 Name: Whats Your Beef - Score: 8
+2024-10-05 15:36:29 Name: Hayleys Team - Score: 10
+2024-10-05 15:48:30 Name: Wolves - Score: 12
+2024-10-05 16:16:51 Name: All Gilla No Thrilla - Score: 11
+2024-10-05 16:27:41 Name: Team Waffle - Score: 10
+2024-10-05 16:41:13 Name: GRILKS - Score: 12
+2024-10-05 16:53:57 Name: Nonnevot - Score: 15
+2024-10-05 17:03:34 Name: Dont Mate - Score: 10
+2024-10-05 17:16:00 Name: Super Manic Ballers - Score: 10
+2024-10-05 17:28:28 Name: Js Jokers - Score: 10
+2024-10-05 18:28:09 Name: Tres Feugos - Score: 10
+2024-10-05 18:40:46 Name: The Exalted - Score: 11
+2024-10-05 18:50:38 Name: Baby Guinness - Score: 12
+2024-10-05 19:01:02 Name: Moore Snus - Score: 10
+2024-10-05 19:10:54 Name: Winners - Score: 12
+2024-10-05 19:21:02 Name: Charlies Angels - Score: 9
+2024-10-05 20:11:50 Name: Team Diamond - Score: 11
+2024-10-05 20:20:48 Name: Batman and Robin - Score: 10
+2024-10-05 20:35:33 Name: Hashtag Shit - Score: 10
+2024-10-05 20:46:04 Name: Birthday Baps - Score: 11
+2024-10-05 20:56:59 Name: Burna - Score: 10
+2024-10-05 21:07:02 Name: Loaf - Score: 10
+2024-10-05 21:17:33 Name: The Lady and the Tramps - Score: 11
+2024-10-06 13:10:03 Name: The Challengers - Score: 9
+2024-10-06 13:35:46 Name: The Swifties - Score: 10
+2024-10-06 15:01:38 Name: One Arm Bandits - Score: 10
+2024-10-06 15:11:47 Name: Girly Twirls - Score: 8
+2024-10-06 15:25:27 Name: Crocodidlydoos - Score: 11
+2024-10-06 15:36:45 Name: The Goonies - Score: 10
+2024-10-06 15:57:20 Name: Forty - Score: 15
+2024-10-06 16:33:42 Name: The Spice Girls - Score: 2
+2024-10-06 16:49:12 Name: Harsh Mega Bins - Score: 11
+2024-10-06 17:16:19 Name: The Blue Starbursts - Score: 9
+2024-10-06 17:28:09 Name: Cool Dudes - Score: 7
+2024-10-06 17:38:21 Name: DTI FBI - Score: 3
+2024-10-06 18:40:20 Name: The Grahams - Score: 10
+2024-10-06 18:57:02 Name: The Awesome Foursome - Score: 10
+2024-10-07 14:47:02 Name: Doyouthinkhesawus - Score: 1
+2024-10-07 14:56:31 Name: Big Fact Hunt - Score: 11
+2024-10-07 15:16:43 Name: Phlangte - Score: 13
+2024-10-07 15:31:18 Name: Doyouthinkhesawus - Score: 13
+2024-10-07 16:33:54 Name: Jammy - Score: 8
+2024-10-09 14:57:43 Name: The Henleys - Score: 10
+2024-10-09 16:44:41 Name: Cuddle Muffin - Score: 10
+2024-10-09 17:06:39 Name: Northern Scott - Score: 13
+2024-10-09 18:17:15 Name: Slay Quing - Score: 12
+2024-10-09 18:42:29 Name: Pooh Hammer - Score: 11
+2024-10-10 13:05:05 Name: Nacho Lovers - Score: 13
+2024-10-10 20:21:28 Name: H & M  - Score: 10
+2024-10-11 13:02:50 Name: Terrible Five - Score: 8
+2024-10-11 13:11:30 Name: The B Team - Score: 10
+2024-10-11 13:29:40 Name: The Gordos - Score: 11
+2024-10-11 14:57:19 Name: Team Milan - Score: 10
+2024-10-11 15:26:06 Name: Character Limit Reached - Score: 13
+2024-10-11 16:33:32 Name: Slay Sisters - Score: 11
+2024-10-11 18:37:33 Name: Penis Colada - Score: 10
+2024-10-11 19:04:50 Name: Ready Steady Cook - Score: 12
+2024-10-11 20:33:39 Name: Annas Team - Score: 10
+2024-10-11 20:44:29 Name: Polar Bear - Score: 8
+2024-10-11 20:54:17 Name: Nojudgecookbycover - Score: 8
+2024-10-11 21:04:16 Name: Oreo Squad - Score: 10
+2024-10-11 21:17:01 Name: Charmy - Score: 11
+2024-10-12 11:27:44 Name: Misfits - Score: 10
+2024-10-12 11:38:31 Name: Eagle Point - Score: 10
+2024-10-12 11:54:26 Name: Team Green Bean - Score: 8
+2024-10-12 13:15:59 Name: The Mouseketeers - Score: 14
+2024-10-12 13:24:24 Name: Green Lamb - Score: 11
+2024-10-12 13:37:05 Name: Team Steve - Score: 11
+2024-10-12 13:45:48 Name: Only Fools and Smiths - Score: 10
+2024-10-12 13:56:00 Name: Universally Challenged - Score: 12
+2024-10-12 14:07:24 Name: Albie G - Score: 10
+2024-10-12 14:40:18 Name: Pointless Challengers - Score: 14
+2024-10-12 14:50:55 Name: Spice Rubber Dingy Rapids - Score: 11
+2024-10-12 15:00:27 Name: Wet Bandists - Score: 12
+2024-10-12 15:15:39 Name: Three Blind Mice - Score: 11
+2024-10-12 15:26:58 Name: Squishy Lizards - Score: 8
+2024-10-12 15:35:56 Name: Wolverhampton Wonders - Score: 10
+2024-10-12 15:46:46 Name: The Believers - Score: 10
+2024-10-12 16:32:17 Name: Egg Heads - Score: 12
+2024-10-12 16:42:02 Name: Team Harris - Score: 10
+2024-10-12 16:52:52 Name: Sloth Supremacy - Score: 10
+2024-10-12 17:08:36 Name: B Team - Score: 11
+2024-10-12 17:18:46 Name: Norfolk n Hope - Score: 9
+2024-10-12 17:30:50 Name: C Team - Score: 10
+2024-10-12 17:42:50 Name: A Team - Score: 12
+2024-10-12 18:36:23 Name: Two Fly for an MI - Score: 11
+2024-10-12 18:44:30 Name: Not Annoying Mums Group - Score: 11
+2024-10-12 18:57:49 Name: The Seagull Detectives - Score: 11
+2024-10-12 19:08:08 Name: Dirty Daffs - Score: 10
+2024-10-12 19:20:19 Name: Team Lawrence - Score: 11
+2024-10-12 19:30:01 Name: Team Lewis - Score: 13
+2024-10-12 20:24:39 Name: The Moorons - Score: 13
+2024-10-12 20:36:10 Name: Lucky Buddhas - Score: 15
+2024-10-12 20:49:17 Name: SHIT - Score: 10
+2024-10-12 20:59:43 Name: Dumb and Dumber - Score: 12
+2024-10-12 21:11:54 Name: Team Guinness - Score: 10
+2024-10-12 21:26:34 Name: Blue Eyed Pandas - Score: 10
+2024-10-12 21:35:57 Name: Team Owen - Score: 9
+2024-10-13 15:03:07 Name: The Binbags - Score: 10
+2024-10-13 16:39:03 Name: Ctrl Alt Defeat - Score: 9
+2024-10-13 16:48:21 Name: The Game Boys - Score: 12
+2024-10-13 17:03:04 Name: SuSu - Score: 11
+2024-10-13 17:13:07 Name: The Wirral Warriors - Score: 11
+2024-10-13 17:22:39 Name: The Winners - Score: 5
+2024-10-13 17:37:34 Name: Kavs - Score: 10
+2024-10-13 18:45:01 Name: Matrix - Score: 12
+2024-10-13 19:14:42 Name: Team Engineers - Score: 13
+2024-10-13 20:15:02 Name: Mad House - Score: 12
+2024-10-14 13:29:46 Name: The Sore Losers - Score: 8
+2024-10-14 14:49:47 Name: Dahm Squared - Score: 10
+2024-10-14 15:17:42 Name: Pump and Grind - Score: 12
+2024-10-14 18:32:54 Name: Hallowitches - Score: 9
+2024-10-14 18:40:48 Name: Who Are Ya? - Score: 12
+2024-10-14 19:02:06 Name: Team Yellow Car - Score: 10
+2024-10-16 11:35:31 Name: Beau - Score: 0
+2024-10-16 11:53:17 Name: Team Elizabeth - Score: 8
+2024-10-16 14:58:51 Name: Great Scot - Score: 12
+2024-10-16 15:12:20 Name: The Strippers - Score: 11
+2024-10-16 15:23:53 Name: Pensioners and Nat - Score: 10
+2024-10-16 15:33:56 Name: Strore Phil - Score: 10
+2024-10-16 15:43:54 Name: Graduates - Score: 14
+2024-10-16 16:38:36 Name: Booze Town Bunch - Score: 12
+2024-10-16 18:33:27 Name: ERT - Score: 11
+2024-10-16 18:44:18 Name: The Toms - Score: 11
+2024-10-16 18:55:34 Name: Slow Horses - Score: 10
+2024-10-16 19:06:10 Name: Team Scotland - Score: 15
+2024-10-16 19:15:08 Name: Fast Horses - Score: 11
+2024-10-17 13:14:50 Name: Chop Suey - Score: 10
+2024-10-17 14:41:57 Name: Drucy - Score: 12
+2024-10-17 18:39:38 Name: Bamboozled - Score: 10
+2024-10-17 19:09:38 Name: Clifford the big red dog - Score: 15
+2024-10-17 20:18:02 Name: The Noodle Soups - Score: 13
+2024-10-17 20:29:19 Name: Chippy Chips - Score: 11
+2024-10-17 20:50:03 Name: Mosely - Score: 14
+2024-10-18 11:12:39 Name: Bobs - Score: 13
+2024-10-18 11:42:23 Name: FFs - Score: 8
+2024-10-18 13:02:31 Name: Sausage Party - Score: 10
+2024-10-18 13:11:08 Name: Team Spaul - Score: 13
+2024-10-18 13:31:20 Name: Luke and Emily - Score: 14
+2024-10-18 14:54:55 Name: Somali Twins - Score: 10
+2024-10-18 15:07:19 Name: Team Precious - Score: 10
+2024-10-18 15:24:27 Name: The Perfect Duo - Score: 13
+2024-10-18 15:35:01 Name: The Julies - Score: 10
+2024-10-18 16:39:23 Name: Crispys - Score: 8
+2024-10-18 17:07:26 Name: Team Fiend - Score: 11
+2024-10-18 18:42:36 Name: Team Two - Score: 10
+2024-10-18 18:55:55 Name: Just Not Yet - Score: 13
+2024-10-18 19:18:31 Name: Paul Squared - Score: 10
+2024-10-18 19:29:00 Name: Team One - Score: 11
+2024-10-18 20:09:06 Name: hafsahs team - Score: 10
+2024-10-18 20:17:24 Name: chrisites team - Score: 3
+2024-10-18 20:27:07 Name: elizabeths team - Score: 10
+2024-10-18 20:41:49 Name: West horton stans - Score: 10
+2024-10-18 20:50:13 Name: charlottes team - Score: 11
+2024-10-18 21:02:28 Name: Lymes - Score: 13
+2024-10-18 21:11:38 Name: B & M - Score: 12
+2024-10-19 11:17:22 Name: LL Cool J - Score: 8
+2024-10-19 11:26:43 Name: ASAK - Score: 11
+2024-10-19 11:36:40 Name: Dynamic Duo - Score: 13
+2024-10-19 11:49:50 Name: Kents Angels - Score: 11
+2024-10-19 12:00:49 Name: No Name - Score: 14
+2024-10-19 12:11:16 Name: Team Diddle - Score: 10
+2024-10-19 13:02:45 Name: Royle Bells - Score: 11
+2024-10-19 13:12:52 Name: Norfolk n Chance - Score: 11
+2024-10-19 13:26:18 Name: The Cheetah Girls - Score: 14
+2024-10-19 13:37:29 Name: Brand Power - Score: 12
+2024-10-19 13:47:46 Name: The Untouchables - Score: 11
+2024-10-19 13:57:35 Name: LDN to MCR - Score: 14
+2024-10-19 14:41:33 Name: T and A - Score: 12
+2024-10-19 14:52:08 Name: Winners - Score: 9
+2024-10-19 15:01:20 Name: Ferris Fanatics - Score: 12
+2024-10-19 15:15:05 Name: Rising Stars - Score: 14
+2024-10-19 15:24:28 Name: Danjubeth - Score: 10
+2024-10-19 15:35:30 Name: Wasted Potential - Score: 12
+2024-10-19 15:44:29 Name: Zowies Fault - Score: 10
+2024-10-19 16:30:02 Name: Rolf Harris - Score: 12
+2024-10-19 16:42:20 Name: Funky Mooses - Score: 12
+2024-10-19 16:50:33 Name: The Shitterz - Score: 10
+2024-10-19 17:10:28 Name: The Green Team Plus Martyn - Score: 13
+2024-10-19 17:20:24 Name: Psychotic Pouncing Panthers - Score: 11
+2024-10-19 17:32:06 Name: The Filthier The Better - Score: 13
+2024-10-19 17:44:41 Name: Romys Butt Plug Collection - Score: 9
+2024-10-19 18:42:15 Name: Team Mololes - Score: 12
+2024-10-19 18:51:33 Name: Team Milkers - Score: 11
+2024-10-19 19:07:02 Name: Lets Get Tipsy - Score: 14
+2024-10-19 19:19:38 Name: Triple Threat - Score: 12
+2024-10-19 19:27:49 Name: Tamas Angels - Score: 12
+2024-10-19 19:37:57 Name: Wheres fondant - Score: 11
+2024-10-19 20:17:36 Name: S n S - Score: 8
+2024-10-19 20:30:05 Name: The A Team - Score: 12
+2024-10-19 20:39:23 Name: AA Batteries - Score: 9
+2024-10-19 20:49:09 Name: Daisy and Jess - Score: 9
+2024-10-19 21:03:05 Name: Elliots Team - Score: 8
+2024-10-19 21:16:05 Name: Ginger Ninjas - Score: 9
+2024-10-19 21:25:54 Name: The Sloop - Score: 9
+2024-10-19 22:03:26 Name: Bright Side - Score: 9
+2024-10-19 22:12:07 Name: Dumb and Dumber - Score: 11
+2024-10-19 22:27:42 Name: JC - Score: 12
+2024-10-19 22:36:50 Name: Baddies - Score: 10
+2024-10-19 22:47:04 Name: Jimmys - Score: 10
+2024-10-19 22:56:04 Name: Diddy Party - Score: 9
+2024-10-20 11:26:17 Name: Kev and Han - Score: 11
+2024-10-20 11:35:10 Name: Kacey and Melody - Score: 11
+2024-10-20 11:54:59 Name: Lewis and Sophie - Score: 6
+2024-10-20 12:04:26 Name: Cherry bakewells - Score: 9
+2024-10-20 12:58:30 Name: Cookies and Cream - Score: 9
+2024-10-20 13:10:38 Name: Kierans clowns - Score: 6
+2024-10-20 13:20:54 Name: Eager Egales - Score: 7
+2024-10-20 13:31:27 Name: C plus C - Score: 13
+2024-10-20 13:40:07 Name: Girlypops - Score: 7
+2024-10-20 13:50:59 Name: Toon Army - Score: 9
+2024-10-20 14:35:28 Name: D and B  - Score: 6
+2024-10-20 14:46:27 Name: W and A - Score: 6
+2024-10-20 14:56:32 Name: B and M  - Score: 6
+2024-10-20 15:09:52 Name: Lady and the Tramp - Score: 8
+2024-10-20 15:19:51 Name: M and L - Score: 8
+2024-10-20 15:30:18 Name: Toms Team - Score: 10
+2024-10-20 15:40:10 Name: G and T  - Score: 10
+2024-10-20 16:24:00 Name: Molly - Score: 7
+2024-10-20 16:33:04 Name: Skeleton - Score: 10
+2024-10-20 16:43:14 Name: Jons Team - Score: 15
+2024-10-20 16:51:45 Name: Team One - Score: 13
+2024-10-20 17:05:00 Name: It Quiz What It Is - Score: 9
+2024-10-20 17:14:24 Name: Awesome Dawson - Score: 10
+2024-10-20 17:24:30 Name: MC - Score: 8
+2024-10-20 18:26:05 Name: The A Team - Score: 9
+2024-10-20 18:36:24 Name: Girly Pops - Score: 8
+2024-10-20 18:48:59 Name: Two shot of Rum - Score: 8
+2024-10-20 19:03:14 Name: Team Amelia - Score: 8
+2024-10-20 19:13:27 Name: Team Rozieta - Score: 8
+2024-10-20 19:23:22 Name: A Squared - Score: 12
+2024-10-20 19:35:04 Name: Graces Angels - Score: 9
+2024-10-20 20:28:01 Name: Rubys - Score: 10
+2024-10-20 20:36:25 Name: Ivys - Score: 9
+2024-10-20 21:01:10 Name: The Spuds - Score: 10
+2024-10-20 21:12:14 Name: room two - Score: 8
+2024-10-21 11:15:30 Name: Triple Threat - Score: 15
+2024-10-21 11:23:50 Name: Woodinas - Score: 9
+2024-10-21 11:41:44 Name: Bum Sniffers - Score: 6
+2024-10-21 13:00:47 Name: Chag Sameach - Score: 11
+2024-10-21 13:13:23 Name: Team Tai - Score: 11
+2024-10-21 13:23:59 Name: The Seagulls - Score: 7
+2024-10-21 13:36:37 Name: Joe and Elle - Score: 9
+2024-10-21 13:47:37 Name: B and J - Score: 9
+2024-10-21 13:57:43 Name: Wrong Direction - Score: 10
+2024-10-21 14:39:47 Name: Lego Legends - Score: 9
+2024-10-21 14:48:24 Name: TT - Score: 8
+2024-10-21 15:01:19 Name: Oldie Badies - Score: 7
+2024-10-21 15:13:58 Name: Big Back - Score: 6
+2024-10-21 15:24:10 Name: Hunters - Score: 4
+2024-10-21 15:35:57 Name: Chollent 613 - Score: 10
+2024-10-21 15:46:25 Name: Budgers - Score: 4
+2024-10-21 16:28:42 Name: Birthday Party - Score: 10
+2024-10-21 16:39:05 Name: The K Team - Score: 8
+2024-10-21 16:52:32 Name: Wedding Anniversary - Score: 5
+2024-10-21 17:04:43 Name: ACG - Score: 6
+2024-10-21 17:17:09 Name: Chicken Soup - Score: 9
+2024-10-21 17:27:57 Name: A & H - Score: 6
+2024-10-21 17:41:32 Name: Unigibbon - Score: 9
+2024-10-21 18:37:39 Name: Onion - Score: 6
+2024-10-21 18:47:20 Name: Diikeens - Score: 8
+2024-10-21 18:57:26 Name: The Diversion - Score: 7
+2024-10-21 19:10:16 Name: Yorkiv - Score: 11
+2024-10-21 19:20:52 Name: The Rev Army - Score: 12
+2024-10-21 19:30:48 Name: Flamingo - Score: 6
+2024-10-21 20:08:12 Name: Team Vibes - Score: 6
+2024-10-21 20:18:50 Name: Rizzos - Score: 9
+2024-10-21 20:31:38 Name: Steak Bakes - Score: 10
+2024-10-21 20:42:08 Name: Team Sam - Score: 6
+2024-10-21 20:51:57 Name: Mac & Cheese - Score: 15
+2024-10-21 21:00:35 Name: Team Fifi - Score: 9
+2024-10-21 21:10:46 Name: A&N - Score: 9
+2024-10-23 13:02:20 Name: Double D - Score: 11
+2024-10-23 13:11:15 Name: The Mancies - Score: 10
+2024-10-23 13:36:14 Name: White Rose - Score: 8
+2024-10-23 14:56:27 Name: Team Das - Score: 10
+2024-10-23 15:07:59 Name: The Makka Moos - Score: 13
+2024-10-23 15:16:59 Name: Team Danny - Score: 10
+2024-10-23 15:25:59 Name: Borussia Teeth - Score: 6
+2024-10-23 15:34:16 Name: Penguin - Score: 12
+2024-10-23 16:40:20 Name: TFO - Score: 7
+2024-10-23 16:51:43 Name: Halloween Ween - Score: 11
+2024-10-23 17:11:36 Name: Double Trouble - Score: 6
+2024-10-23 17:20:55 Name: Team Kelsey - Score: 8
+2024-10-23 18:55:09 Name: The Aces - Score: 12
+2024-10-23 19:18:52 Name: DJCJ - Score: 10
+2024-10-23 19:28:28 Name: Witch Please - Score: 10
+2024-10-23 19:35:30 Name: DJL - Score: 15
+2024-10-23 19:51:46 Name:  - Score: 0
+2024-10-24 13:12:19 Name: Haze - Score: 9
+2024-10-24 13:21:38 Name: Two Blues - Score: 9
+2024-10-24 13:34:55 Name: El Burno - Score: 10
+2024-10-24 13:43:59 Name: The Cheeseballs - Score: 11
+2024-10-24 13:53:14 Name: Fam Club - Score: 11
+2024-10-24 14:43:50 Name: The Banks - Score: 10
+2024-10-24 14:56:57 Name: Winging It - Score: 9
+2024-10-24 15:07:05 Name: Team Mark - Score: 11
+2024-10-24 15:15:16 Name: Sigma Ohio Rizzlers - Score: 10
+2024-10-24 15:25:43 Name: China Number One - Score: 10
+2024-10-24 15:36:10 Name: Dunkin Doughnuts - Score: 10
+2024-10-24 16:27:01 Name: Gramoody Gang - Score: 9
+2024-10-24 16:35:37 Name: Toxic Tortoise - Score: 8
+2024-10-24 16:48:25 Name: Fantastic - Score: 10
+2024-10-24 16:58:24 Name: Teletubies - Score: 10
+2024-10-24 17:07:25 Name: HND - Score: 7
+2024-10-24 17:18:22 Name: LA - Score: 8
+2024-10-24 18:29:13 Name: Welsh Wonders - Score: 8
+2024-10-24 18:37:37 Name: Run like the winded - Score: 8
+2024-10-24 18:47:37 Name: Age before Beauty - Score: 6
+2024-10-24 18:57:16 Name: JANOUK - Score: 6
+2024-10-24 19:10:20 Name: Goosed - Score: 9
+2024-10-24 19:20:11 Name: Tax Titans - Score: 8
+2024-10-24 19:30:48 Name: The A Team - Score: 9
+2024-10-24 20:27:39 Name: Quizzy Mcguire - Score: 8
+2024-10-25 11:25:37 Name: The A Team - Score: 7
+2024-10-25 11:37:00 Name: Ash & Dave  - Score: 9
+2024-10-25 11:47:21 Name: Vorderman Slappers - Score: 8
+2024-10-25 12:05:13 Name: Better late than Never - Score: 10
+2024-10-25 12:44:40 Name: The Hunter Nolands - Score: 11
+2024-10-25 12:55:47 Name: The Brynford Reds - Score: 9
+2024-10-25 13:10:05 Name: Lucky - Score: 10
+2024-10-25 13:19:39 Name: The E Mallets - Score: 9
+2024-10-25 13:29:52 Name: Bamboozle - Score: 8
+2024-10-25 13:38:00 Name: Mariano - Score: 8
+2024-10-25 13:46:21 Name: The Clarets - Score: 11
+2024-10-25 14:32:56 Name: The Z Team - Score: 10
+2024-10-25 14:42:01 Name: The A Team - Score: 7
+2024-10-25 14:51:07 Name: Boogie Woogie - Score: 6
+2024-10-25 15:04:11 Name: Goodison and Gang - Score: 7
+2024-10-25 15:13:35 Name: Ride or Die - Score: 6
+2024-10-25 15:24:11 Name: The Muppets - Score: 7
+2024-10-25 15:34:19 Name: AM - Score: 6
+2024-10-25 16:29:10 Name: T Twenty Two - Score: 8
+2024-10-25 16:38:51 Name: Team Fiza - Score: 8
+2024-10-25 16:46:38 Name: Ant and Dec the Halls - Score: 10
+2024-10-25 16:59:22 Name: Grinchy - Score: 6
+2024-10-25 17:08:29 Name: Team One - Score: 12
+2024-10-25 17:18:11 Name: Wreck it Ralph - Score: 6
+2024-10-25 18:30:46 Name: Diamond Dogs - Score: 6
+2024-10-25 18:39:35 Name: Clitorish Allsorts - Score: 8
+2024-10-25 18:50:53 Name: Nelly - Score: 7
+2024-10-25 18:58:46 Name: The A Team - Score: 12
+2024-10-25 19:08:40 Name: AA - Score: 9
+2024-10-25 19:18:21 Name: Ting Tong Warriors - Score: 8
+2024-10-25 20:06:35 Name: Kid-Free - Score: 8
+2024-10-25 20:16:35 Name: Jacob - Score: 8
+2024-10-25 20:28:31 Name: Jil 1 - Score: 8
+2024-10-25 20:38:14 Name: Blue - Score: 6
+2024-10-25 20:51:52 Name: Bert Yong - Score: 7
+2024-10-25 21:02:50 Name: Jil 2 - Score: 8
+2024-10-25 21:13:25 Name: TJ - Score: 8
+2024-10-25 22:01:06 Name: F & K - Score: 8
+2024-10-25 22:15:38 Name: SE - Score: 8
+2024-10-25 22:25:30 Name: SN - Score: 6
+2024-10-25 22:34:21 Name: Arse - Score: 11
+2024-10-25 22:45:10 Name: SH - Score: 11
+2024-10-25 22:52:47 Name: Dino - Score: 12
+2024-10-26 11:16:51 Name: Three Lez and Dennis - Score: 11
+2024-10-26 11:25:22 Name: Frenchies - Score: 8
+2024-10-26 11:33:59 Name: The Dukes of Bar - Score: 8
+2024-10-26 11:45:52 Name: Baby Hens - Score: 12
+2024-10-26 11:54:31 Name: Troublesome Twins - Score: 10
+2024-10-26 12:03:29 Name: Firestarters - Score: 10
+2024-10-26 12:47:26 Name: RELM - Score: 8
+2024-10-26 12:56:12 Name: B and B - Score: 9
+2024-10-26 13:07:03 Name: Twenty Nine plus One - Score: 9
+2024-10-26 13:20:15 Name: Butterflies - Score: 11
+2024-10-26 13:30:34 Name: Bonix - Score: 11
+2024-10-26 13:41:52 Name: Bees - Score: 11
+2024-10-26 13:50:58 Name: Quizpicable Me - Score: 10
+2024-10-26 14:42:21 Name: Traitors - Score: 8
+2024-10-26 14:51:34 Name: Weakest Links - Score: 8
+2024-10-26 15:00:47 Name: Les Lions - Score: 9
+2024-10-26 15:13:59 Name: The White Sides - Score: 10
+2024-10-26 15:22:55 Name: Law and Order - Score: 6
+2024-10-26 15:34:52 Name: Dales Dynamos - Score: 8
+2024-10-26 16:25:49 Name: Bloomin Marvelous - Score: 11
+2024-10-26 16:38:36 Name: Team Win - Score: 12
+2024-10-26 16:49:59 Name: When in Rome - Score: 8
+2024-10-26 16:59:59 Name: Team Roisin - Score: 9
+2024-10-26 17:10:50 Name: Trash Pandas - Score: 10
+2024-10-26 17:20:58 Name: Any Point Will Do - Score: 6
+2024-10-26 17:31:54 Name: Team Terrors - Score: 10
+2024-10-26 18:22:23 Name: KJLAP - Score: 7
+2024-10-26 18:34:14 Name: Hank Marvins - Score: 8
+2024-10-26 18:42:54 Name: The Clampets - Score: 10
+2024-10-26 18:56:39 Name: Day - Score: 10
+2024-10-26 19:08:02 Name: Alicia 2 - Score: 8
+2024-10-26 19:18:18 Name: Milner - Score: 8
+2024-10-26 19:26:28 Name: Alicia 1 - Score: 12
+2024-10-26 20:11:09 Name: Salt and Vinegar - Score: 12
+2024-10-26 20:21:24 Name: The Top Twats - Score: 11
+2024-10-26 20:31:15 Name: Quami - Score: 7
+2024-10-26 20:42:49 Name: MCWizard - Score: 9
+2024-10-26 20:53:55 Name: SMBH - Score: 6
+2024-10-26 21:03:24 Name: Georgias Team - Score: 6
+2024-10-26 21:11:56 Name: Mediocre Detectives - Score: 8
+2024-10-26 21:59:01 Name: Little and Large - Score: 9
+2024-10-26 22:10:17 Name: Power Rangers - Score: 9
+2024-10-26 22:23:38 Name: Morganna - Score: 9
+2024-10-26 22:32:48 Name: Challenge Accepted - Score: 7
+2024-10-26 22:42:12 Name: Beavis and Butthead - Score: 6
+2024-10-26 22:54:48 Name: Quiz my Pants - Score: 11
+2024-10-27 11:19:16 Name: Any Afters - Score: 8
+2024-10-27 11:31:51 Name: The Riddlers - Score: 9
+2024-10-27 11:44:44 Name: Infernos - Score: 8
+2024-10-27 11:54:21 Name: The Weakest Links - Score: 8
+2024-10-27 12:05:06 Name: Late Again - Score: 11
+2024-10-27 12:16:14 Name: Team Mohammed - Score: 6
+2024-10-27 12:51:23 Name: Lallanas in Pyjamas - Score: 8
+2024-10-27 13:01:40 Name: Malik - Score: 3
+2024-10-27 13:13:37 Name: Clueless - Score: 10
+2024-10-27 13:28:03 Name: Dumb and Dumber - Score: 11
+2024-10-27 13:39:52 Name: Allsorts - Score: 8
+2024-10-27 13:50:03 Name: Goof Troop - Score: 8
+2024-10-27 14:00:06 Name: Reductive Pink Scraps - Score: 8
+2024-10-27 14:36:27 Name: United - Score: 10
+2024-10-27 14:46:05 Name: Ellie & Heather 4eva - Score: 12
+2024-10-27 14:59:26 Name: Giggle Gang - Score: 6
+2024-10-27 15:09:33 Name: The Creators - Score: 9
+2024-10-27 15:19:41 Name: City Girls - Score: 8
+2024-10-27 15:30:04 Name: Wham Bam - Score: 9
+2024-10-27 15:39:27 Name: Team Isabella - Score: 8
+2024-10-27 16:27:22 Name: Midaz - Score: 11
+2024-10-27 16:37:50 Name: Swifties - Score: 6
+2024-10-27 16:49:30 Name: Bad Boyz - Score: 6
+2024-10-27 17:03:15 Name: Singers not Swingers - Score: 8
+2024-10-27 17:14:07 Name: Flan - Score: 12
+2024-10-27 17:24:42 Name: Shit Puns - Score: 8
+2024-10-27 17:35:50 Name: TK - Score: 10
+2024-10-27 18:36:00 Name: T13 - Score: 10
+2024-10-27 18:48:31 Name: Dream Team - Score: 8
+2024-10-27 18:59:28 Name: 442 - Score: 8
+2024-10-27 19:08:45 Name: Jolly - Score: 12
+2024-10-27 19:19:46 Name: Lucky 27 - Score: 8
+2024-10-27 19:29:44 Name: 6 Years in the Making - Score: 10
+2024-10-27 20:19:36 Name: The Princesses - Score: 10
+2024-10-27 20:33:01 Name: The Redhead - Score: 10
+2024-10-27 20:45:53 Name: Spuds - Score: 10
+2024-10-27 20:55:23 Name: Beauty and the Beast - Score: 9
+2024-10-27 21:04:52 Name: Nicholsons Knights - Score: 8
+2024-10-27 21:13:37 Name: Kylie 22 - Score: 8
+2024-10-28 11:15:42 Name: Double AA - Score: 10
+2024-10-28 11:25:33 Name: Parry Parrots - Score: 10
+2024-10-28 11:38:18 Name: AJ2 - Score: 7
+2024-10-28 11:47:16 Name: Golden Icons - Score: 9
+2024-10-28 11:56:19 Name: Skibbidy Sigma - Score: 10
+2024-10-28 12:06:43 Name: RnB - Score: 8
+2024-10-28 12:53:59 Name: Tom and Jerry - Score: 8
+2024-10-28 13:03:01 Name: Lloyd Jones Legends - Score: 9
+2024-10-28 13:12:30 Name: Birds Arent Real - Score: 8
+2024-10-28 13:24:32 Name: GWORLS - Score: 10
+2024-10-28 13:34:03 Name: Fosters - Score: 10
+2024-10-28 13:42:48 Name: The Weakest Links - Score: 6
+2024-10-28 13:52:03 Name: Norfolk n Way - Score: 12
+2024-10-28 14:31:04 Name: The Dream Team - Score: 10
+2024-10-28 14:40:26 Name: Heavenlee - Score: 10
+2024-10-28 14:56:00 Name: In it to Win it - Score: 9
+2024-10-28 15:04:25 Name: Ayup Me Duck - Score: 13
+2024-10-28 15:13:12 Name: MSE - Score: 13
+2024-10-28 15:22:29 Name: The Cool Champions - Score: 8
+2024-10-28 15:32:34 Name: Montague - Score: 8
+2024-10-28 16:20:19 Name: Daring Dsouza - Score: 3
+2024-10-28 16:29:09 Name: The Duo - Score: 7
+2024-10-28 16:39:44 Name: Oli and his Minions - Score: 8
+2024-10-28 16:52:36 Name: Hobnobs - Score: 8
+2024-10-28 17:02:10 Name: chAoTic Neutrals - Score: 6
+2024-10-28 17:13:18 Name: Ginger Nuts - Score: 10
+2024-10-28 17:22:56 Name: Fried Chickens - Score: 11
+2024-10-28 18:28:53 Name: Bears United - Score: 10
+2024-10-28 18:36:05 Name: Nel - Score: 10
+2024-10-28 18:47:58 Name: The Toads - Score: 10
+2024-10-28 18:58:14 Name: The Minions - Score: 9
+2024-10-28 19:12:56 Name: Thick and Thicker - Score: 7
+2024-10-28 19:21:50 Name: Family Fun - Score: 8
+2024-10-28 20:04:29 Name: Fozza and the Ginge - Score: 8
+2024-10-28 20:14:25 Name: Milliam - Score: 9
+2024-10-28 20:23:47 Name: Team Norts - Score: 10
+2024-10-28 20:36:19 Name: Nata De Coco - Score: 13
+2024-10-28 20:45:42 Name: Berwick Babes - Score: 9
+2024-10-28 20:55:02 Name: Fantastic Five - Score: 8
+2024-10-28 21:04:28 Name: Shan nannagans - Score: 10
+2024-10-29 12:40:52 Name:  - Score: 6
+2024-10-29 12:49:12 Name:  - Score: 5
+2024-10-30 11:23:49 Name: Team Taco - Score: 8
+2024-10-30 11:35:15 Name: Tripple Trouble - Score: 8
+2024-10-30 11:47:17 Name: Derby Goats - Score: 9
+2024-10-30 11:57:23 Name: Dumb & Dumber - Score: 10
+2024-10-30 12:06:04 Name: Diddly Squat - Score: 10
+2024-10-30 12:15:15 Name: Minions - Score: 7
+2024-10-30 12:56:09 Name: Big T Little T - Score: 4
+2024-10-30 13:05:17 Name: The GOATS - Score: 9
+2024-10-30 13:18:34 Name: Team Richard - Score: 6
+2024-10-30 13:27:35 Name: Hey Best Friend! - Score: 7
+2024-10-30 13:36:47 Name: Toon Trekkers - Score: 4
+2024-10-30 13:46:28 Name: Not My Decision - Score: 10
+2024-10-30 14:36:19 Name: The Pointless Challengers - Score: 14
+2024-10-30 14:47:42 Name: SGN - Score: 9
+2024-10-30 15:00:04 Name: The Mad Dogs - Score: 9
+2024-10-30 15:09:40 Name: Team Bigs - Score: 9
+2024-10-30 15:29:41 Name: Team Leanne - Score: 9
+2024-10-30 15:39:31 Name: Far Squad - Score: 10
+2024-10-30 16:23:07 Name: Team Rahman - Score: 8
+2024-10-30 16:32:48 Name: Fiona is that a ghost? - Score: 7
+2024-10-30 16:44:00 Name: Deliberators - Score: 7
+2024-10-30 16:57:20 Name: Bandy Legs - Score: 7
+2024-10-30 17:08:12 Name: Worms - Score: 9
+2024-10-30 17:20:03 Name: Team Mamar - Score: 10
+2024-10-30 17:29:57 Name: Hostages + Mash - Score: 9
+2024-10-30 18:35:22 Name: Out of Space - Score: 4
+2024-10-30 19:01:27 Name: Team Collins - Score: 5
+2024-10-30 20:20:02 Name: D & T - Score: 8
+2024-10-30 20:49:53 Name: Sayed - Score: 3
+2024-10-31 13:14:17 Name: Bubble Bobble - Score: 10
+2024-10-31 13:27:27 Name: The Beans - Score: 9
+2024-10-31 13:38:41 Name: QuizTeama Aguilera - Score: 11
+2024-10-31 13:48:17 Name: Kellys Team - Score: 10
+2024-10-31 13:59:19 Name: Team Thomas - Score: 11
+2024-10-31 14:56:02 Name: Untitled and Uninspired - Score: 10
+2024-10-31 15:16:02 Name: Dumb and Dumber - Score: 10
+2024-10-31 15:24:23 Name: Thirty - Score: 7
+2024-10-31 15:32:55 Name: Reet Petites Army  - Score: 10
+2024-10-31 16:31:31 Name: The Lesbians - Score: 7
+2024-10-31 16:40:10 Name: Team Maple - Score: 5
+2024-10-31 16:53:00 Name: Missing Flipper - Score: 6
+2024-10-31 17:04:49 Name: Team Maesha - Score: 11
+2024-10-31 17:16:04 Name: Thought Troopers - Score: 10
+2024-10-31 17:25:11 Name: Daddy Daughter - Score: 5
+2024-10-31 18:31:08 Name: Fighterz - Score: 12
+2024-10-31 18:41:39 Name: J and J - Score: 5
+2024-10-31 18:55:14 Name: Scissor Sisters - Score: 6
+2024-10-31 19:04:18 Name: The Siddiques - Score: 9
+2024-10-31 19:13:44 Name: Erm Erm - Score: 7
+2024-10-31 19:25:11 Name: The Chasers - Score: 5
+2024-10-31 20:05:36 Name: Tired Irons - Score: 7
+2024-10-31 20:14:57 Name: The Terminators - Score: 2
+2024-10-31 20:28:07 Name: Oogas Boogas - Score: 9
+2024-10-31 20:39:03 Name: The A-Team - Score: 11
+2024-10-31 20:51:04 Name: Dumb and Dumber - Score: 9
+2024-10-31 21:01:25 Name: Swedish Vikings - Score: 7
+2024-10-31 21:12:05 Name: The B-Team - Score: 9
+2024-11-01 11:22:30 Name: Wheres nick - Score: 7
+2024-11-01 11:30:48 Name: Puzzle Bashers - Score: 8
+2024-11-01 11:44:20 Name: Ar Joker - Score: 5
+2024-11-01 11:56:14 Name: 5 girls and a gay - Score: 9
+2024-11-01 12:05:13 Name: Team Mack - Score: 10
+2024-11-01 12:19:02 Name: The A team - Score: 8
+2024-11-01 13:03:46 Name: G+J - Score: 10
+2024-11-01 13:15:15 Name: X-Men - Score: 8
+2024-11-01 13:25:02 Name: Alt F four - Score: 6
+2024-11-01 13:50:38 Name: Irish - Score: 10
+2024-11-01 14:04:10 Name: Jabby - Score: 17
+2024-11-01 14:14:13 Name: Mia + Than - Score: 10
+2024-11-01 14:23:34 Name: The Ginger Ninja - Score: 15
+2024-11-01 14:53:50 Name: The Dubliners - Score: 4
+2024-11-01 15:05:19 Name: Naughty Ninjas - Score: 7
+2024-11-01 15:15:34 Name: Wilson Warriors - Score: 8
+2024-11-01 15:25:52 Name: Dumb and Dumber - Score: 11
+2024-11-01 15:37:50 Name: Dumbest and Dumber - Score: 9
+2024-11-01 15:48:35 Name: No Brains Daisy - Score: 13
+2024-11-01 15:59:01 Name: pinky and Brain - Score: 6
+2024-11-01 16:42:14 Name: Joaney - Score: 12
+2024-11-01 16:52:30 Name: Bubble and Squeak - Score: 11
+2024-11-01 17:04:46 Name: Button - Score: 7
+2024-11-01 17:13:43 Name: Interracial - Score: 8
+2024-11-01 17:23:04 Name: SSeven - Score: 7
+2024-11-01 18:29:36 Name: Samy - Score: 11
+2024-11-01 18:39:08 Name: Megantics - Score: 7
+2024-11-01 18:49:20 Name: Pagies team - Score: 8
+2024-11-01 19:03:30 Name: Darceys team - Score: 2
+2024-11-01 19:13:48 Name: Bobs your unlce - Score: 9
+2024-11-01 19:22:51 Name: Skettio - Score: 9
+2024-11-01 19:36:28 Name: Toms team - Score: 9
+2024-11-01 20:14:16 Name: Team with no name - Score: 7
+2024-11-01 20:22:58 Name: Hash brown lovers - Score: 4
+2024-11-01 20:31:53 Name: Youre ma cant fight - Score: 11
+2024-11-01 20:46:06 Name: Jizzie Balls - Score: 11
+2024-11-01 20:55:14 Name: Double Trouble - Score: 11
+2024-11-01 21:07:16 Name: Bading - Score: 11
+2024-11-01 21:20:39 Name: Otter Madness - Score: 15
+2024-11-02 11:26:10 Name: Team West End - Score: 11
+2024-11-02 11:35:04 Name: Team Spirits - Score: 7
+2024-11-02 11:47:05 Name: Camouflage - Score: 5
+2024-11-02 11:56:39 Name: Team Great - Score: 5
+2024-11-02 12:06:45 Name: Team Cannonballs - Score: 6
+2024-11-02 12:51:10 Name: Yellows - Score: 4
+2024-11-02 13:01:54 Name: RS - Score: 9
+2024-11-02 13:11:46 Name: Team Sack - Score: 9
+2024-11-02 13:27:15 Name: Team 23 - Score: 10
+2024-11-02 13:37:41 Name: Team GD - Score: 10
+2024-11-02 13:48:19 Name: Hudson Heros - Score: 8
+2024-11-02 13:59:24 Name: Halloween queens - Score: 8
+2024-11-02 14:41:31 Name: Dylans team - Score: 10
+2024-11-02 14:49:45 Name: Swifties - Score: 9
+2024-11-02 15:00:53 Name: Fab 40 - Score: 7
+2024-11-02 15:12:54 Name: Puddings and Pie - Score: 11
+2024-11-02 15:24:18 Name: Lynns Angels - Score: 6
+2024-11-02 15:33:14 Name: Calty - Score: 10
+2024-11-02 15:43:59 Name: Dream Team - Score: 7
+2024-11-02 16:23:23 Name: Jade and bread - Score: 3
+2024-11-02 16:33:39 Name: Medusa - Score: 10
+2024-11-02 16:45:08 Name: Caitlin and Ryan - Score: 11
+2024-11-02 16:59:01 Name: Posiedon - Score: 9
+2024-11-02 17:09:22 Name: Athena - Score: 10
+2024-11-02 17:21:25 Name: Zeus - Score: 9
+2024-11-02 17:31:12 Name: Hades - Score: 9
+2024-11-02 18:23:51 Name: Triple Threat - Score: 9
+2024-11-02 18:47:38 Name: US - Score: 8
+2024-11-02 18:56:52 Name: Timmyyys - Score: 7
+2024-11-02 19:06:55 Name: Almost Famous - Score: 10
+2024-11-02 19:17:10 Name: Tarissa - Score: 7
+2024-11-02 19:27:07 Name: Kweenz - Score: 8
+2024-11-02 20:09:38 Name: Joe and the Juices - Score: 8
+2024-11-02 20:20:21 Name: All Mi Riches - Score: 10
+2024-11-02 20:30:42 Name: The Newly Neds - Score: 9
+2024-11-02 20:41:49 Name: The Rats - Score: 10
+2024-11-02 20:55:11 Name: T and L - Score: 8
+2024-11-02 21:06:14 Name: Hodbods - Score: 9
+2024-11-02 21:16:58 Name: Adannah - Score: 8
+2024-11-02 22:01:14 Name: Pea Heads - Score: 9
+2024-11-02 22:10:03 Name: Challenge Champions - Score: 6
+2024-11-02 22:19:58 Name: Buggar Che 23 - Score: 11
+2024-11-02 22:32:40 Name: Mingle Masters - Score: 9
+2024-11-02 22:47:29 Name: Core Four - Score: 11
+2024-11-02 22:58:16 Name: Tequila Mockingbird - Score: 10
+2024-11-03 11:22:34 Name: Mcplant and Hashbrowns - Score: 14
+2024-11-03 11:34:13 Name: Dream Team - Score: 12
+2024-11-03 11:44:49 Name: EJ - Score: 12
+2024-11-03 11:53:06 Name: TT - Score: 6
+2024-11-03 12:03:09 Name: Three Wheels - Score: 10
+2024-11-03 12:12:08 Name: Double Trouble - Score: 9
+2024-11-03 12:58:36 Name: Dirty Thirty - Score: 8
+2024-11-03 13:09:23 Name: Blobs - Score: 8
+2024-11-03 13:23:13 Name: Sassy Snack Sisters - Score: 9
+2024-11-03 13:34:20 Name: Judeeeee - Score: 10
+2024-11-03 13:44:50 Name: Turkey Basters - Score: 11
+2024-11-03 13:56:15 Name: Sticky Bandits - Score: 11
+2024-11-03 14:39:00 Name: Twix - Score: 10
+2024-11-03 14:51:14 Name: The Wardrops Fam - Score: 10
+2024-11-03 15:00:22 Name: Mystery Machine - Score: 11
+2024-11-03 15:13:12 Name: Pickle - Score: 8
+2024-11-03 15:23:48 Name: Best Fries Forever - Score: 11
+2024-11-03 15:34:19 Name: ICOE - Score: 9
+2024-11-03 15:45:30 Name: Three Muskateers - Score: 7
+2024-11-03 16:24:26 Name: Vibes - Score: 10
+2024-11-03 16:35:43 Name: The Smartinis - Score: 11
+2024-11-03 16:43:27 Name: Invincibles - Score: 7
+2024-11-03 16:56:49 Name: I Dont Know - Score: 11
+2024-11-03 17:04:37 Name: Challenge - Score: 6
+2024-11-03 17:16:49 Name: The Billans - Score: 10
+2024-11-03 17:25:38 Name: Team Jess - Score: 11
+2024-11-03 18:35:55 Name: JOMA - Score: 9
+2024-11-03 18:50:54 Name: J5 - Score: 9
+2024-11-03 18:58:40 Name: Team Shovannah - Score: 8
+2024-11-03 19:10:25 Name: Bell - Score: 10
+2024-11-03 19:19:40 Name: STP - Score: 8
+2024-11-03 19:31:06 Name: B and L - Score: 11
+2024-11-03 20:21:51 Name: Beddie - Score: 6
+2024-11-03 20:33:19 Name: Alex Squared - Score: 10
+2024-11-03 20:47:43 Name: Chebecch - Score: 9
+2024-11-03 20:55:03 Name: Ok Lets Go - Score: 7
+2024-11-03 21:05:09 Name: Forever United - Score: 10
+2024-11-04 13:11:38 Name: Ross Dogs - Score: 8
+2024-11-04 13:31:39 Name: The Gaze - Score: 3
+2024-11-04 13:40:54 Name: Black Panthers - Score: 5
+2024-11-04 14:34:45 Name: Daisy Moo - Score: 7
+2024-11-04 14:44:08 Name: E Squared - Score: 9
+2024-11-04 15:04:28 Name: Lemon Melon - Score: 11
+2024-11-04 15:13:26 Name: Tea and Toast - Score: 13
+2024-11-04 15:32:18 Name: Bffs - Score: 10
+2024-11-04 16:40:18 Name: Guiness and Prosecco - Score: 9
+2024-11-04 16:49:15 Name: Team Tara - Score: 4
+2024-11-04 17:10:07 Name: Team JB - Score: 12
+2024-11-04 17:19:00 Name: Cao Bar - Score: 7
+2024-11-04 18:42:36 Name: Early Birds - Score: 5
+2024-11-04 18:51:16 Name: PMT - Score: 11
+2024-11-04 19:10:57 Name: Lady and the Champ - Score: 9
+2024-11-04 20:19:08 Name: Z&W - Score: 9
+2024-11-06 13:13:21 Name: Gooey Cookie - Score: 10
+2024-11-06 13:31:16 Name: EA Its in the game - Score: 12
+2024-11-06 14:48:55 Name: Adam and Pete - Score: 8
+2024-11-06 15:02:06 Name: The Duo - Score: 8
+2024-11-06 15:16:46 Name: Eggheads - Score: 6
+2024-11-06 15:26:51 Name: Richards Mermaids - Score: 8
+2024-11-06 16:36:51 Name: Partners in Crime - Score: 3
+2024-11-06 16:45:14 Name: Danny Dyers Deep Fat Fryers - Score: 8
+2024-11-06 16:54:22 Name: Wyvern - Score: 10
+2024-11-06 17:07:30 Name: Murder On Ze Dancefloor - Score: 10
+2024-11-06 17:18:43 Name: Pevie Wonders - Score: 10
+2024-11-06 17:28:13 Name: Spoon - Score: 8
+2024-11-06 18:39:00 Name: Taxi for Turner - Score: 6
+2024-11-06 18:47:16 Name: Les Dennis - Score: 6
+2024-11-06 19:09:15 Name: Go On Ella - Score: 10
+2024-11-06 19:19:15 Name: Go On Steve - Score: 9
+2024-11-06 20:12:38 Name: Robin and Ellie - Score: 8
+2024-11-06 20:20:06 Name: RM - Score: 6
+2024-11-06 20:38:14 Name: RCTV - Score: 7
+2024-11-07 12:56:26 Name: The Deaf Badgers - Score: 12
+2024-11-07 13:06:49 Name: Three Men and The Little Lady - Score: 14
+2024-11-07 13:21:07 Name: Madolf - Score: 13
+2024-11-07 13:30:54 Name: The Bum Takers - Score: 11
+2024-11-07 13:42:40 Name: Titanic Swim Team - Score: 7
+2024-11-07 13:52:40 Name: TWATS - Score: 12
+2024-11-07 14:42:49 Name: Toon Army - Score: 10
+2024-11-07 14:53:02 Name: We Tried - Score: 11
+2024-11-07 15:01:45 Name: Two Gals and a Gay - Score: 7
+2024-11-07 15:13:46 Name: H Squared - Score: 6
+2024-11-07 15:24:05 Name: Ogres - Score: 6
+2024-11-07 15:38:12 Name: Hornets - Score: 7
+2024-11-07 15:47:49 Name: JP - Score: 9
+2024-11-07 16:27:08 Name: Diabetic and Dyslexic - Score: 9
+2024-11-07 16:37:31 Name: The Whits - Score: 6
+2024-11-07 16:48:21 Name: Fab Four - Score: 6
+2024-11-07 16:56:59 Name: The Honey Badgers - Score: 12
+2024-11-07 17:07:33 Name: Twenty - Score: 6
+2024-11-07 17:17:40 Name: Big Bad Bean Counters - Score: 10
+2024-11-07 17:27:05 Name: Chimmy - Score: 10
+2024-11-07 18:37:17 Name: Team Ruth - Score: 10
+2024-11-07 18:45:33 Name: Perfect Pair - Score: 10
+2024-11-07 19:02:13 Name: Ctrl Alt Defeat - Score: 8
+2024-11-07 19:12:01 Name: The E Team - Score: 9
+2024-11-07 20:26:05 Name: Rose Buddies - Score: 10
+2024-11-07 20:34:02 Name: Evie and Isaac - Score: 4
+2024-11-07 20:52:35 Name: Team Hakim - Score: 8
+2024-11-08 11:17:32 Name: Monkey Hangers Return - Score: 8
+2024-11-08 11:46:59 Name: Team Kim - Score: 4
+2024-11-08 13:05:43 Name: Warton Wanderers - Score: 3
+2024-11-08 13:14:56 Name: Three Musketeers - Score: 10
+2024-11-08 13:29:07 Name: The Brummies - Score: 7
+2024-11-08 13:47:44 Name: Scott and Cheg - Score: 12
+2024-11-08 13:57:41 Name: Thunder Egg - Score: 10
+2024-11-08 14:43:17 Name: Brandon and Fern - Score: 6
+2024-11-08 14:54:02 Name: Lauren and Harry - Score: 8
+2024-11-08 15:03:41 Name: Bloody Marvelous 1 - Score: 6
+2024-11-08 15:19:17 Name: Bloody Marvelous 3 - Score: 5
+2024-11-08 15:28:41 Name: Sam and Leah - Score: 9
+2024-11-08 15:38:54 Name: Bloody Marvelous 2 - Score: 6
+2024-11-08 15:49:52 Name: Ishcamina - Score: 6
+2024-11-08 16:23:32 Name: Slobber Chops - Score: 11
+2024-11-08 16:34:21 Name: Fresh n Fast - Score: 11
+2024-11-08 16:43:51 Name: Maccies123 - Score: 5
+2024-11-08 16:53:03 Name: Abraham Thinkin - Score: 14
+2024-11-08 17:08:25 Name: The Saints - Score: 12
+2024-11-08 17:18:06 Name: Stolly - Score: 10
+2024-11-08 17:29:48 Name: Double Trouble - Score: 8
+2024-11-08 18:22:42 Name: Yeehaw - Score: 12
+2024-11-08 18:33:35 Name: Nothing But Net - Score: 8
+2024-11-08 18:42:18 Name: Caity and Co - Score: 7
+2024-11-08 18:56:39 Name: Ctrl Alt Defeat - Score: 12
+2024-11-08 19:06:54 Name: Wheres the Clicker James - Score: 7
+2024-11-08 19:19:17 Name: The Widecombs - Score: 11
+2024-11-08 19:28:51 Name: Winners - Score: 11
+2024-11-08 20:19:52 Name: Dumb and Dumber - Score: 8
+2024-11-08 20:29:28 Name: Henge - Score: 9
+2024-11-08 20:41:20 Name: The Grill Makers - Score: 7
+2024-11-08 20:52:12 Name: Tv Time - Score: 12
+2024-11-08 21:04:04 Name: Jens Crazy Kids - Score: 6
+2024-11-08 21:15:05 Name: Jali - Score: 9
+2024-11-08 22:11:51 Name: The Big Cheese - Score: 9
+2024-11-08 22:22:15 Name: Kamilas Angels - Score: 10
+2024-11-08 22:32:47 Name: Nut Buster - Score: 9
+2024-11-08 22:43:14 Name: Hubernian FC - Score: 10
+2024-11-08 22:53:14 Name: Perky Quirke - Score: 15
+2024-11-09 11:21:03 Name: Bridezilla - Score: 9
+2024-11-09 11:28:49 Name: Team Em - Score: 6
+2024-11-09 11:40:49 Name: The Bobsleighers - Score: 10
+2024-11-09 11:50:59 Name: Clubcard - Score: 7
+2024-11-09 12:01:35 Name: Bread and Butter - Score: 11
+2024-11-09 12:12:37 Name: Amazing Alphas - Score: 8
+2024-11-09 12:46:49 Name: Four in a Bed - Score: 10
+2024-11-09 12:57:34 Name: Fellalids - Score: 9
+2024-11-09 13:06:34 Name: Teamy Mc Teamface - Score: 8
+2024-11-09 13:20:37 Name: Bal - Score: 12
+2024-11-09 13:30:17 Name: Unstopables - Score: 10
+2024-11-09 13:41:10 Name: Jolly - Score: 11
+2024-11-09 13:51:36 Name: The J Team - Score: 12
+2024-11-09 14:36:08 Name: Janes Dancers - Score: 9
+2024-11-09 14:47:47 Name: Angry Elves - Score: 12
+2024-11-09 14:57:41 Name: The MK Babes - Score: 9
+2024-11-09 15:12:33 Name: The A Team - Score: 9
+2024-11-09 15:20:34 Name: Two of a Kind - Score: 8
+2024-11-09 15:33:59 Name: The Ds - Score: 8
+2024-11-09 15:44:37 Name: The Best Team - Score: 4
+2024-11-09 16:28:20 Name: Six in the city - Score: 7
+2024-11-09 16:38:34 Name: Islas Kittys - Score: 8
+2024-11-09 16:47:14 Name: The Glasto Gems - Score: 9
+2024-11-09 17:00:31 Name: Ash - Score: 10
+2024-11-09 17:13:59 Name: four men and a baby - Score: 10
+2024-11-09 17:23:25 Name: Dafuq - Score: 8
+2024-11-09 17:34:33 Name: Challenge Pints - Score: 11
+2024-11-09 18:23:59 Name: No Idea - Score: 4
+2024-11-09 18:36:56 Name: Just Sophie - Score: 9
+2024-11-09 18:45:02 Name: L and J - Score: 12
+2024-11-09 18:58:57 Name: Jails - Score: 10
+2024-11-09 19:10:48 Name: Phruity - Score: 9
+2024-11-09 19:18:28 Name: Big Ginger Tarn - Score: 6
+2024-11-09 19:29:10 Name: UMMH - Score: 10
+2024-11-09 20:10:47 Name: Iced Matcha - Score: 3
+2024-11-09 20:21:52 Name: Awesome Foursome - Score: 8
+2024-11-09 20:31:26 Name: Mr and Mrs - Score: 6
+2024-11-09 20:46:31 Name: Fat Pats - Score: 7
+2024-11-09 20:54:27 Name: The Slip It In - Score: 7
+2024-11-09 21:06:12 Name: J Squared - Score: 6
+2024-11-09 21:15:38 Name: Team Smallshaw - Score: 6
+2024-11-09 22:03:51 Name: Junior - Score: 11
+2024-11-09 22:13:25 Name: Silly Geese - Score: 7
+2024-11-09 22:26:08 Name: Laudre - Score: 10
+2024-11-09 22:36:22 Name: Sweatshop Deafeaters - Score: 12
+2024-11-09 22:46:07 Name: Robbo and Wrighty - Score: 10
+2024-11-09 22:53:32 Name: The girls - Score: 9
+2024-11-10 11:27:12 Name: The Brummies - Score: 8
+2024-11-10 11:41:21 Name: P and Mol - Score: 8
+2024-11-10 11:53:00 Name: U Reds - Score: 8
+2024-11-10 12:03:23 Name: Elry - Score: 7
+2024-11-10 12:11:42 Name: The Anne Robinsons - Score: 12
+2024-11-10 13:01:42 Name: Powerpuff Girls - Score: 4
+2024-11-10 13:10:48 Name: Team Paul - Score: 7
+2024-11-10 13:20:51 Name: Universally Challenged - Score: 8
+2024-11-10 13:34:36 Name: Duo - Score: 8
+2024-11-10 13:45:44 Name: Literally Anything - Score: 11
+2024-11-10 13:56:46 Name: Slow Horses - Score: 9
+2024-11-10 14:40:49 Name: Slim Shady - Score: 10
+2024-11-10 14:50:45 Name: The Immys - Score: 9
+2024-11-10 15:05:09 Name: Cleathers - Score: 10
+2024-11-10 15:15:04 Name: The Weakest Link - Score: 9
+2024-11-10 15:26:58 Name: Special Ed - Score: 10
+2024-11-10 15:37:42 Name: Adam and Eve - Score: 9
+2024-11-10 16:37:40 Name: H2J - Score: 7
+2024-11-10 16:48:09 Name: Bronson - Score: 15
+2024-11-10 16:59:51 Name: MK - Score: 8
+2024-11-10 17:09:16 Name: JK - Score: 11
+2024-11-10 17:17:48 Name: Steve Harveys Moustache - Score: 8
+2024-11-10 18:20:33 Name: Focus - Score: 13
+2024-11-10 18:30:23 Name: Wangers - Score: 7
+2024-11-10 18:39:21 Name: Charmaines Angels - Score: 4
+2024-11-10 18:53:48 Name: Team Aasaiyah - Score: 11
+2024-11-10 19:04:32 Name: A and H - Score: 6
+2024-11-10 19:13:24 Name: Netflix and Skill - Score: 13
+2024-11-10 19:25:15 Name: Dynamic Duo - Score: 10
+2024-11-10 20:22:24 Name: Calliv - Score: 7
+2024-11-10 20:34:42 Name: Brandans Team - Score: 11
+2024-11-10 20:44:48 Name: Three Amigos - Score: 7
+2024-11-10 20:55:31 Name: Champ - Score: 12
+2024-11-10 21:03:36 Name: Team Egg - Score: 12
+2024-11-11 14:51:06 Name: Style Boyz - Score: 11
+2024-11-11 15:03:28 Name: G and T - Score: 9
+2024-11-11 15:23:03 Name: Danny - Score: 15
+2024-11-11 18:26:41 Name: One Year - Score: 10
+2024-11-11 18:36:09 Name: Pointless - Score: 9
+2024-11-11 18:47:09 Name: Boring  - Score: 9
+2024-11-11 18:57:17 Name: Beauty and the Beast - Score: 11
+2024-11-11 19:06:00 Name: Eight it Up  - Score: 14
+2024-11-11 20:23:36 Name: Worried Chunk - Score: 7
+2024-11-11 20:32:02 Name: Big N Small - Score: 4
+2024-11-11 20:50:24 Name: ET - Score: 9
+2024-11-13 13:02:09 Name: Rogers Team - Score: 11
+2024-11-13 14:52:24 Name: Jisabelle - Score: 12
+2024-11-13 15:01:20 Name: You Chews - Score: 8
+2024-11-13 15:18:05 Name: Fuckin ell - Score: 8
+2024-11-13 16:39:54 Name: Lost Cat - Score: 9
+2024-11-13 16:52:02 Name: Meags & Co - Score: 11
+2024-11-13 17:00:06 Name: DH - Score: 4
+2024-11-13 17:08:23 Name: C&A - Score: 13
+2024-11-13 17:17:45 Name: The Three Vagabonds - Score: 7
+2024-11-13 18:34:44 Name: Sally and the gen zs - Score: 14
+2024-11-13 18:47:22 Name: Team Sarah - Score: 11
+2024-11-13 18:56:54 Name: Maybe Pink - Score: 9
+2024-11-13 19:06:31 Name: James and the great peach - Score: 12
+2024-11-13 19:15:35 Name: Kenderson - Score: 6
+2024-11-13 20:04:22 Name: Flamingo - Score: 10
+2024-11-13 20:11:54 Name: Team Chilli - Score: 8
+2024-11-13 20:25:52 Name: On Time for Once - Score: 12
+2024-11-13 20:34:57 Name: Overthinkers - Score: 13
+2024-11-13 20:45:57 Name: Both - Score: 10
+2024-11-13 20:55:57 Name: Bom - Score: 12
+2024-11-13 21:03:30 Name: Marcelle - Score: 9
+2024-11-14 11:13:17 Name: Thirty Three - Score: 11
+2024-11-14 11:41:46 Name: The Mighty Mackams - Score: 3
+2024-11-14 12:48:51 Name: Silly Goose - Score: 8
+2024-11-14 13:13:41 Name: Dumb and Dumber - Score: 11
+2024-11-14 14:47:36 Name: Coxdale - Score: 12
+2024-11-14 18:35:52 Name: Team Madison - Score: 8
+2024-11-14 18:44:39 Name: BFB - Score: 3
+2024-11-14 19:01:57 Name: Rascals - Score: 12
+2024-11-14 20:04:30 Name: Crimzino - Score: 9
+2024-11-14 20:14:44 Name: Team Jaya - Score: 9
+2024-11-14 20:23:27 Name: Jolby  - Score: 11
+2024-11-14 20:34:33 Name: Team Chloe - Score: 8
+2024-11-14 20:44:55 Name: Dream Team  - Score: 13
+2024-11-14 20:53:42 Name: Team Joe - Score: 9
+2024-11-14 21:04:53 Name: Pengus - Score: 7
+2024-11-15 11:26:47 Name: Team Callum - Score: 9
+2024-11-15 11:35:15 Name: Muskat Nada - Score: 12
+2024-11-15 11:43:19 Name: CC - Score: 11
+2024-11-15 11:51:43 Name: Team Faiza - Score: 6
+2024-11-15 12:00:11 Name: The Potters - Score: 11
+2024-11-15 13:01:22 Name: DJ Eldon - Score: 9
+2024-11-15 13:14:53 Name: Colaborative Crusaders - Score: 8
+2024-11-15 13:24:58 Name: We Love a Challenge - Score: 6
+2024-11-15 13:34:49 Name: HMT - Score: 8
+2024-11-15 13:44:52 Name: Phontastic Five - Score: 10
+2024-11-15 13:55:59 Name: Smashed it  - Score: 5
+2024-11-15 14:32:47 Name: Keir Herink Fan Club - Score: 10
+2024-11-15 14:42:28 Name: Has + Soph - Score: 10
+2024-11-15 14:53:10 Name: RJ - Score: 8
+2024-11-15 15:02:36 Name: Team Evil - Score: 11
+2024-11-15 15:11:38 Name: Ferryhill Mags - Score: 8
+2024-11-15 15:20:30 Name: 22 - Score: 11
+2024-11-15 15:28:58 Name: Mikeys Team - Score: 11
+2024-11-15 16:40:23 Name: Big Cheese Battalion - Score: 7
+2024-11-15 16:53:54 Name: The Witty Comittee - Score: 6
+2024-11-15 17:02:59 Name: Team Kya - Score: 13
+2024-11-15 17:12:11 Name: Ctrl Alt Elite - Score: 3
+2024-11-15 17:21:30 Name: I Dont Know - Score: 9
+2024-11-15 18:17:39 Name: JM Squared - Score: 10
+2024-11-15 18:28:41 Name: B1 Nines - Score: 10
+2024-11-15 18:37:24 Name: The Agars - Score: 10
+2024-11-15 18:49:23 Name: Saville Surviours - Score: 6
+2024-11-15 18:59:53 Name: Team Shellyann - Score: 5
+2024-11-15 19:09:41 Name: The Lees - Score: 11
+2024-11-15 19:17:35 Name: The Chasers - Score: 7
+2024-11-15 20:06:34 Name: Umairs Team - Score: 13
+2024-11-15 20:16:26 Name: Taura  - Score: 8
+2024-11-15 20:29:26 Name: Khadijahs Team  - Score: 9
+2024-11-15 20:38:24 Name: Neighbours - Score: 10
+2024-11-15 20:47:15 Name: Party Poopers - Score: 8
+2024-11-15 20:59:09 Name: 90s Babies - Score: 8
+2024-11-15 21:06:51 Name: Nimras Team - Score: 8
+2024-11-15 21:57:32 Name: You Got Served - Score: 7
+2024-11-15 22:08:39 Name: Bruces Chin - Score: 7
+2024-11-15 22:20:31 Name: Dumb and Dumber - Score: 10
+2024-11-15 22:32:26 Name: Five Fingers to the Face - Score: 11
+2024-11-15 22:40:47 Name: The Mackems - Score: 11
+2024-11-15 22:51:47 Name: Brassic - Score: 12
+2024-11-16 11:14:35 Name: MRSA - Score: 12
+2024-11-16 11:24:47 Name: The Underdogs - Score: 9
+2024-11-16 11:38:35 Name: Four Lions - Score: 9
+2024-11-16 11:49:19 Name: MSSA - Score: 11
+2024-11-16 11:59:52 Name: The Crips - Score: 12
+2024-11-16 12:08:46 Name: Deb - Score: 11
+2024-11-16 12:50:02 Name: Double Trouble - Score: 3
+2024-11-16 12:58:54 Name: Sunflowers - Score: 9
+2024-11-16 13:08:57 Name: NA - Score: 9
+2024-11-16 13:20:34 Name: JEMS - Score: 10
+2024-11-16 13:31:31 Name: Unicorns - Score: 9
+2024-11-16 13:41:28 Name: Tonys Tigers - Score: 9
+2024-11-16 13:50:23 Name: VK - Score: 10
+2024-11-16 14:27:02 Name: Bottom Set - Score: 12
+2024-11-16 14:37:45 Name: Shrio - Score: 8
+2024-11-16 14:46:26 Name: Sailors - Score: 12
+2024-11-16 14:59:42 Name: MITE - Score: 8
+2024-11-16 15:09:20 Name: KJ - Score: 3
+2024-11-16 15:19:34 Name: Lauriso - Score: 9
+2024-11-16 15:29:24 Name: Stokies - Score: 14
+2024-11-16 16:28:04 Name: The Spaz-Tastics - Score: 10
+2024-11-16 16:38:39 Name: Benno Blues - Score: 8
+2024-11-16 16:50:20 Name: Richs Rovers - Score: 9
+2024-11-16 17:01:02 Name: Meg Bum Laden - Score: 16
+2024-11-16 17:10:01 Name: Birthday Bezzes - Score: 11
+2024-11-16 17:20:38 Name: Maxs Army - Score: 16
+2024-11-16 18:20:43 Name: Lenny - Score: 14
+2024-11-16 18:34:04 Name: Fourteen - Score: 8
+2024-11-16 18:43:05 Name: Misfits - Score: 10
+2024-11-16 18:56:01 Name: Sophies Angels - Score: 11
+2024-11-16 19:05:34 Name: Team Shareen - Score: 9
+2024-11-16 19:16:58 Name: Double Trouble - Score: 7
+2024-11-16 19:28:55 Name: A Whole Lotta Hassle - Score: 6
+2024-11-16 20:05:47 Name: Cheshire Cat - Score: 8
+2024-11-16 20:24:55 Name: Purple Rain - Score: 10
+2024-11-16 20:37:35 Name: Heathers Team - Score: 8
+2024-11-16 20:47:03 Name: Lily and Toby - Score: 12
+2024-11-16 20:56:20 Name: Dumb Duo - Score: 13
+2024-11-16 21:05:21 Name: Web of Lies - Score: 8
+2024-11-16 22:01:18 Name: Holly and her Bitch - Score: 10
+2024-11-16 22:11:51 Name: Lord Farquad - Score: 6
+2024-11-16 22:20:37 Name: Gremlins - Score: 10
+2024-11-16 22:35:40 Name: Donkey and Shrek - Score: 6
+2024-11-16 22:46:55 Name: The Dynamos - Score: 10
+2024-11-16 22:57:55 Name: Bolivia - Score: 9
+2024-11-17 11:14:54 Name: Challenge Accepted - Score: 11
+2024-11-17 11:23:30 Name: Team Megan - Score: 7
+2024-11-17 11:33:34 Name: A + Des Avengers - Score: 6
+2024-11-17 11:55:22 Name: The Sore Loosers - Score: 10
+2024-11-17 12:03:36 Name: MJ - Score: 9
+2024-11-17 12:53:45 Name: Team Abbie - Score: 5
+2024-11-17 13:03:35 Name: Sleepy Heads - Score: 7
+2024-11-17 13:14:33 Name: The Weakest Links - Score: 7
+2024-11-17 13:27:36 Name: Kayleigh and James - Score: 9
+2024-11-17 13:36:29 Name: The - 1 percent club - Score: 9
+2024-11-17 13:46:38 Name: Layla and Aron - Score: 4
+2024-11-17 13:58:03 Name: Elf Patrol - Score: 8
+2024-11-17 14:35:38 Name: The Price is Right - Score: 3
+2024-11-17 14:47:27 Name: The Weakest Link - Score: 9
+2024-11-17 14:58:28 Name: The 3 Amgias - Score: 7
+2024-11-17 15:11:37 Name: Groovy Gang 1 - Score: 10
+2024-11-17 15:22:01 Name: Mentally Challenged - Score: 12
+2024-11-17 15:37:05 Name: The Blue Boys - Score: 4
+2024-11-17 15:47:11 Name: Groovy Gang 2 - Score: 11
+2024-11-17 16:16:54 Name: McWaga - Score: 8
+2024-11-17 16:26:49 Name: The Bread Winners - Score: 10
+2024-11-17 16:38:53 Name: Not Bothered - Score: 11
+2024-11-17 16:50:54 Name: The Underdogs - Score: 8
+2024-11-17 17:00:35 Name: Anne Robinson - Score: 10
+2024-11-17 17:11:54 Name: A-Team - Score: 6
+2024-11-17 17:22:24 Name: Dos Scousers - Score: 14
+2024-11-17 18:22:35 Name: The Steppers - Score: 9
+2024-11-17 18:33:16 Name: Dumplings - Score: 9
+2024-11-17 18:42:26 Name: There We Land - Score: 11
+2024-11-17 18:56:32 Name: Team Kulsuma - Score: 9
+2024-11-17 19:05:48 Name: Topaz - Score: 6
+2024-11-17 19:25:09 Name: Baddies - Score: 5
+2024-11-17 20:22:54 Name: The Ullahs - Score: 7
+2024-11-17 20:36:26 Name: Beanie Weenies - Score: 10
+2024-11-17 20:47:14 Name: DNA - Score: 5
+2024-11-17 20:57:40 Name: G Squared - Score: 14
+2024-11-17 21:05:46 Name: KCAL - Score: 8
+2024-11-18 12:44:14 Name: Foxes - Score: 14
+2024-11-18 12:55:07 Name: Sister Sister - Score: 10
+2024-11-18 13:05:17 Name: 3 Amigos Minus 1  - Score: 10
+2024-11-18 13:14:06 Name: Crazy Cats - Score: 5
+2024-11-18 13:26:38 Name: No Expectations - Score: 5
+2024-11-18 13:38:46 Name: Twenty-Seven BC - Score: 13
+2024-11-18 13:49:55 Name: Team Z - Score: 7
+2024-11-18 14:48:46 Name: KCUTZ - Score: 9
+2024-11-18 14:58:19 Name: MK - Score: 8
+2024-11-18 15:07:15 Name: TOJJ - Score: 13
+2024-11-18 15:15:46 Name: Dumb and Dumber - Score: 12
+2024-11-18 15:25:38 Name: JAM - Score: 13
+2024-11-18 16:38:38 Name: Sparcaskies - Score: 9
+2024-11-18 18:38:52 Name: Shaw Thing - Score: 11
+2024-11-18 18:49:27 Name: Ugly Boy - Score: 4
+2024-11-18 19:00:24 Name: Team Storm - Score: 6
+2024-11-18 19:10:54 Name: Alexanders Team - Score: 10
+2024-11-18 19:19:27 Name: Big Cook Little Cook - Score: 10
+2024-11-18 20:17:15 Name: JP Clarke - Score: 9
+2024-11-18 20:43:31 Name: The Fat Squad - Score: 9
+2024-11-20 13:14:09 Name: Will and Jasmine - Score: 10
+2024-11-20 14:50:57 Name: Bister Bad Boys - Score: 6
+2024-11-20 15:14:07 Name: Team Ikrah - Score: 6
+2024-11-20 16:23:08 Name: Book Cook, Little Cook - Score: 9
+2024-11-20 16:35:19 Name: Ubers A Bitch - Score: 9
+2024-11-20 16:46:28 Name: Smartinis - Score: 4
+2024-11-20 17:01:48 Name: Team Tapas - Score: 8
+2024-11-20 17:12:14 Name: 8 Months In Turkey - Score: 11
+2024-11-20 17:22:16 Name: HRs Worst Nightmare - Score: 6
+2024-11-20 17:34:10 Name: People Powerhouses - Score: 8
+2024-11-20 18:19:18 Name: McLovell - Score: 5
+2024-11-20 18:27:50 Name: Joanna Brew - Score: 3
+2024-11-20 20:21:02 Name: Weakest Links - Score: 8
+2024-11-20 20:32:59 Name: Team Patience - Score: 10
+2024-11-20 20:43:21 Name: The Paddies - Score: 5
+2024-11-20 20:53:08 Name: Dirty Thirties - Score: 9
+2024-11-20 21:02:19 Name: We Dont Know - Score: 9
+2024-11-21 13:05:51 Name: The Beans - Score: 8
+2024-11-21 14:52:57 Name: Rats - Score: 10
+2024-11-21 15:01:20 Name: Jevie - Score: 5
+2024-11-21 15:20:43 Name: Sheep - Score: 11
+2024-11-21 16:32:36 Name: The Vixens - Score: 8
+2024-11-21 16:41:19 Name: Bean Counters - Score: 8
+2024-11-21 17:00:17 Name: I like My Suitcase - Score: 9
+2024-11-21 17:09:29 Name: Late One - Score: 7
+2024-11-21 18:32:48 Name: Gino Dicampo - Score: 6
+2024-11-21 18:41:06 Name: BMW4L - Score: 4
+2024-11-21 19:00:42 Name: The Billams - Score: 10
+2024-11-21 20:24:05 Name: Lava - Score: 10
+2024-11-21 20:49:59 Name: Team Izzy - Score: 7
+2024-11-22 11:20:24 Name: Team David - Score: 6
+2024-11-22 11:30:36 Name: The Sister Act - Score: 9
+2024-11-22 11:48:20 Name: Its My Day Off - Score: 11
+2024-11-22 13:11:55 Name: Rosie & Jim - Score: 8
+2024-11-22 13:20:49 Name: Eri - Score: 3
+2024-11-22 13:28:58 Name: Team Alisha - Score: 7
+2024-11-22 13:38:14 Name: Pablo - Score: 9
+2024-11-22 13:48:05 Name: Molly & Owen - Score: 9
+2024-11-22 14:35:37 Name: TNR - Score: 2
+2024-11-22 14:44:54 Name: I Like That - Score: 12
+2024-11-22 14:57:41 Name: Moosh - Score: 7
+2024-11-22 15:08:31 Name: Christmas Time - Score: 9
+2024-11-22 15:18:34 Name: Team JEKKAL - Score: 5
+2024-11-22 15:26:26 Name: Hap Rangers - Score: 12
+2024-11-22 15:36:20 Name: 3 Amigos - Score: 8
+2024-11-22 16:32:15 Name: Team Grace - Score: 8
+2024-11-22 16:41:49 Name: Slough House - Score: 9
+2024-11-22 16:56:01 Name: Team Ayy - Score: 8
+2024-11-22 17:04:20 Name: Will & Co. - Score: 8
+2024-11-22 17:15:44 Name: Double Trouble - Score: 9
+2024-11-22 17:23:31 Name: Team Bee - Score: 8
+2024-11-22 18:19:14 Name: Kape - Score: 7
+2024-11-22 18:28:47 Name: Bales - Score: 9
+2024-11-22 18:36:47 Name: Sibling Rivalry - Score: 10
+2024-11-22 18:49:21 Name: Toc - Score: 12
+2024-11-22 18:58:53 Name: Toby - Score: 12
+2024-11-22 19:08:16 Name: Jade - Score: 8
+2024-11-22 19:17:25 Name: YCT - Score: 8
+2024-11-22 20:03:48 Name: The Mariners - Score: 11
+2024-11-22 20:12:05 Name: Colesly Club - Score: 9
+2024-11-22 20:22:00 Name: B Town - Score: 10
+2024-11-22 20:34:46 Name: Shit Leads - Score: 11
+2024-11-22 20:44:42 Name: Top Bins - Score: 12
+2024-11-22 20:52:51 Name: Team Nooreha - Score: 9
+2024-11-22 21:03:02 Name: The Chosen Ones - Score: 4
+2024-11-22 22:04:13 Name: Bread & Butter - Score: 8
+2024-11-22 22:24:02 Name: The Weakest Links - Score: 8
+2024-11-22 22:37:02 Name: Sigma - Score: 9
+2024-11-22 22:45:32 Name: Mattys Angels - Score: 9
+2024-11-23 11:10:47 Name: Clompers - Score: 10
+2024-11-23 11:19:27 Name: The Shawarmas - Score: 0
+2024-11-23 11:30:07 Name: North and South - Score: 4
+2024-11-23 11:44:01 Name: Shambles - Score: 10
+2024-11-23 11:52:13 Name: The Little Hagises - Score: 9
+2024-11-23 12:02:00 Name: The Neals - Score: 13
+2024-11-23 12:47:33 Name: 1604 - Score: 8
+2024-11-23 12:56:30 Name: the burtons - Score: 7
+2024-11-23 13:06:03 Name: Hollys Bitches  - Score: 9
+2024-11-23 13:15:30 Name: the b team - Score: 9
+2024-11-23 13:25:59 Name: supermarket creep - Score: 8
+2024-11-23 13:35:03 Name: we are the weakest links  - Score: 11
+2024-11-23 13:44:17 Name: spicy - Score: 5
+2024-11-23 14:42:22 Name: Harmeets Hairlines - Score: 8
+2024-11-23 14:52:07 Name: Ayeshas Team - Score: 10
+2024-11-23 15:01:42 Name: Swagz n Magz - Score: 11
+2024-11-23 15:11:11 Name: The AA - Score: 10
+2024-11-23 15:20:09 Name: Candices Team - Score: 4
+2024-11-23 15:29:34 Name: Live Laugh Lovelies - Score: 9
+2024-11-23 16:20:36 Name: Not Fast Just Furious - Score: 11
+2024-11-23 16:30:04 Name: Gemma Lives and the Army - Score: 10
+2024-11-23 16:47:13 Name: Team Toby - Score: 10
+2024-11-23 16:59:48 Name: Barton Place - Score: 8
+2024-11-23 17:08:55 Name: Team Aaron - Score: 10
+2024-11-23 17:21:40 Name: The Weakest Links - Score: 9
+2024-11-23 18:28:09 Name: Charlottes Team - Score: 7
+2024-11-23 18:38:18 Name: The Bohancocks - Score: 9
+2024-11-23 18:49:03 Name: Run out of Escape Rooms - Score: 8
+2024-11-23 18:58:06 Name: Alexs Team - Score: 8
+2024-11-23 19:07:49 Name:  Universally Challenged - Score: 10
+2024-11-23 19:17:36 Name: Quizzy Rascal - Score: 10
+2024-11-23 20:10:06 Name: Team Olivia - Score: 9
+2024-11-23 20:17:24 Name: DAbbi - Score: 8
+2024-11-23 20:26:11 Name: Hot Shots - Score: 7
+2024-11-23 20:36:27 Name: Kezamu - Score: 8
+2024-11-23 20:44:59 Name: London Massive - Score: 13
+2024-11-23 20:54:52 Name: Jodys Team - Score: 8
+2024-11-23 21:03:34 Name: LA Girls - Score: 9
+2024-11-23 21:43:46 Name: Xerexies - Score: 7
+2024-11-23 21:52:44 Name: Stretford Survivous  - Score: 11
+2024-11-23 22:01:50 Name: The A Team - Score: 9
+2024-11-23 22:10:43 Name: Delphines Angels - Score: 7
+2024-11-23 22:19:19 Name: Twos Company - Score: 14
+2024-11-23 22:29:27 Name: Bridesmaids - Score: 8
+2024-11-23 22:38:30 Name: The Powerpuff Girls - Score: 8
+2024-11-24 11:17:16 Name: Melin - Score: 7
+2024-11-24 11:28:01 Name: The Pentons - Score: 9
+2024-11-24 11:38:09 Name: Double J - Score: 9
+2024-11-24 11:48:21 Name: The Wrens - Score: 10
+2024-11-24 11:58:34 Name: The Bandits - Score: 9
+2024-11-24 12:09:20 Name: Asian Invasion - Score: 6
+2024-11-24 12:46:14 Name: J and J - Score: 10
+2024-11-24 12:56:44 Name: The Lunatics - Score: 13
+2024-11-24 13:07:49 Name: The Snack Bus - Score: 10
+2024-11-24 13:16:12 Name: No Name - Score: 10
+2024-11-24 13:27:12 Name: Double Trouble - Score: 11
+2024-11-24 13:38:07 Name: Wooden Bench - Score: 10
+2024-11-24 13:47:01 Name: The Ps - Score: 11
+2024-11-24 14:50:51 Name: DJEMS - Score: 9
+2024-11-24 14:59:49 Name: Real Dream Team - Score: 9
+2024-11-24 15:11:18 Name: Girl Gang - Score: 6
+2024-11-24 15:22:34 Name: Dream Team - Score: 8
+2024-11-24 15:33:40 Name: Hi Guys - Score: 11
+2024-11-24 16:30:13 Name: Random - Score: 12
+2024-11-24 16:40:48 Name: Serenas Team - Score: 11
+2024-11-24 16:50:16 Name: M.I.L.D - Score: 7
+2024-11-24 17:00:46 Name: 3 Musketeers - Score: 12
+2024-11-24 17:09:03 Name: Guy Fieris Crock Pot - Score: 7
+2024-11-24 17:20:24 Name: M M M M - Score: 7
+2024-11-24 18:20:07 Name: Good Vibes - Score: 4
+2024-11-24 18:29:57 Name: Apex - Score: 9
+2024-11-24 18:40:48 Name: The Princess and The Plumber - Score: 11
+2024-11-24 18:51:54 Name: James and Sarah - Score: 13
+2024-11-24 19:02:51 Name: Dumb and Dumber - Score: 11
+2024-11-24 19:12:30 Name: Double S - Score: 10
+2024-11-24 19:21:07 Name: Low Expectations - Score: 10
+2024-11-24 20:08:37 Name: We Dont Know - Score: 8
+2024-11-24 20:19:28 Name: Mash - Score: 10
+2024-11-24 20:32:24 Name: Mg and Gismo - Score: 10
+2024-11-24 20:44:56 Name: You Choose - Score: 14
+2024-11-24 20:54:37 Name: Its Okay Chicken - Score: 10
+2024-11-24 21:05:43 Name: Kp and MC - Score: 8
+2024-11-25 11:12:46 Name: The Mewsers - Score: 9
+2024-11-25 11:39:07 Name: Test - Score: 14
+2024-11-25 13:10:08 Name: Were on Point - Score: 13
+2024-11-25 13:18:07 Name: Wingers - Score: 10
+2024-11-25 13:27:24 Name: JZ - Score: 9
+2024-11-25 13:40:06 Name: CAFC - Score: 13
+2024-11-25 13:48:59 Name: Poop and Scoop - Score: 12
+2024-11-25 14:47:44 Name: Hiccup and Whiplash - Score: 9
+2024-11-25 14:56:58 Name: Padlocks - Score: 9
+2024-11-25 15:18:42 Name: Swimshorts - Score: 2
+2024-11-25 15:26:45 Name: L.J. - Score: 10
+2024-11-25 16:31:56 Name: Big Bs - Score: 12
+2024-11-25 16:40:08 Name: Zulekhas Team - Score: 7
+2024-11-25 17:03:08 Name: Poop Shy - Score: 12
+2024-11-25 18:35:39 Name: Older Not Wiser - Score: 11
+2024-11-25 18:45:44 Name: Team Hafsah - Score: 6
+2024-11-25 19:10:28 Name: Your Worst Nightmare - Score: 8
+2024-11-25 20:22:53 Name: Moist Wanted - Score: 11
+2024-11-25 20:32:06 Name: Unhinged - Score: 9
+2024-11-25 20:52:44 Name: Team Filth - Score: 10
+2024-11-25 21:01:39 Name: Team Iceland - Score: 12
+2024-11-27 13:12:06 Name: Noni - Score: 6
+2024-11-27 13:22:57 Name: Brats United - Score: 9
+2024-11-27 13:44:10 Name: Dumb & Dumber - Score: 5
+2024-11-27 13:53:59 Name: The Diddly Squats - Score: 9
+2024-11-27 14:47:30 Name: Change Name - Score: 9
+2024-11-27 14:55:17 Name: Stupid is as Stupid Does - Score: 8
+2024-11-27 15:18:36 Name: Team Amie - Score: 9
+2024-11-27 15:26:50 Name: The Sandals - Score: 10
+2024-11-27 16:31:27 Name: Sourdough Breadz - Score: 9
+2024-11-27 17:05:26 Name: Bratchester Badgers - Score: 10
+2024-11-27 18:43:38 Name: Team James - Score: 9
+2024-11-27 18:54:08 Name: Sore Losers - Score: 8
+2024-11-27 19:05:45 Name: First Place - Score: 11
+2024-11-27 19:17:45 Name: 2 Hot to Handle - Score: 8
+2024-11-27 19:27:45 Name: 8 out of 10 Brats - Score: 10
+2024-11-28 11:16:37 Name: Brat - Score: 9
+2024-11-28 12:59:42 Name: Immy Moo - Score: 10
+2024-11-28 13:08:48 Name: Alon - Score: 11
+2024-11-28 13:19:35 Name: Dumber and Dumber - Score: 9
+2024-11-28 13:29:00 Name: Brain Rot - Score: 11
+2024-11-28 13:38:11 Name: A and S - Score: 4
+2024-11-28 14:35:39 Name: Nolan - Score: 13
+2024-11-28 14:46:57 Name: Reds and Blues - Score: 9
+2024-11-28 14:57:06 Name: Smart - Score: 7
+2024-11-28 15:10:14 Name: Dream Team - Score: 9
+2024-11-28 15:20:14 Name: Birthday Girls - Score: 9
+2024-11-28 15:32:58 Name: Winner Takes It All - Score: 11
+2024-11-28 15:41:07 Name: Double Trouble - Score: 10
+2024-11-28 16:41:39 Name: Wonder Women - Score: 10
+2024-11-28 16:50:32 Name: Tetricias Angels - Score: 12
+2024-11-28 17:10:06 Name: The JBs - Score: 8
+2024-11-28 18:23:40 Name: Feargal Fan Club - Score: 6
+2024-11-28 18:35:39 Name: The Shamrocks - Score: 8
+2024-11-28 18:45:09 Name: The Bananas - Score: 11
+2024-11-28 18:55:48 Name: Tooth Fairies - Score: 10
+2024-11-28 19:07:48 Name: Team Ashleigh Two - Score: 6
+2024-11-28 19:17:18 Name: Bist Boe - Score: 9
+2024-11-28 19:30:05 Name: Team Ashleigh One - Score: 10
+2024-11-28 20:16:42 Name: The Winners - Score: 8
+2024-11-28 20:25:27 Name: Jez - Score: 10
+2024-11-28 20:42:57 Name: Water Police - Score: 13
+2024-11-29 13:05:43 Name: The Eggs - Score: 10
+2024-11-29 13:14:46 Name: The Yorkshire Puddings - Score: 10
+2024-11-29 13:28:09 Name: The Half-wits - Score: 11
+2024-11-29 13:37:58 Name: Amy & Lou - Score: 12
+2024-11-29 13:46:09 Name: Jake & Nicole - Score: 9
+2024-11-29 14:48:16 Name: The Incapable Gamers - Score: 9
+2024-11-29 14:57:04 Name: H Squared - Score: 12
+2024-11-29 15:07:54 Name: Highlanders - Score: 10
+2024-11-29 15:17:55 Name: Remote Boys on Tour - Score: 10
+2024-11-29 15:25:38 Name: Fosse - Score: 8
+2024-11-29 16:31:19 Name: Phil - Score: 9
+2024-11-29 16:40:26 Name: Cork City - Score: 11
+2024-11-29 16:52:47 Name: Team Two - Score: 8
+2024-11-29 17:01:16 Name: Homies - Score: 7
+2024-11-29 17:11:29 Name: Team One - Score: 8
+2024-11-29 17:22:12 Name: Team Three - Score: 10
+2024-11-29 18:19:45 Name: Big Cook, Little Cook - Score: 12
+2024-11-29 18:28:02 Name: A-Team - Score: 8
+2024-11-29 18:37:30 Name: K&J - Score: 10
+2024-11-29 18:50:19 Name: OJs Boys - Score: 7
+2024-11-29 18:59:38 Name: Team Bingus - Score: 12
+2024-11-29 19:08:02 Name: Fern & Bailey - Score: 9
+2024-11-29 19:19:21 Name: OJs Girls - Score: 8
+2024-11-29 20:01:45 Name: J Seven - Score: 9
+2024-11-29 20:10:51 Name: Knock, Knock - Score: 5
+2024-11-29 20:20:59 Name: Kailiss.COM - Score: 10
+2024-11-29 20:32:14 Name: The Gruesome Twosome - Score: 9
+2024-11-29 20:44:27 Name: Milk Chocolate - Score: 11
+2024-11-29 20:54:40 Name: Big Cook, Little Cook - Score: 8
+2024-11-29 21:03:08 Name: Team Asiya - Score: 10
+2024-11-29 21:45:34 Name: Lounate - Score: 8
+2024-11-29 21:54:11 Name: Sheilon & Co - Score: 9
+2024-11-29 22:04:11 Name: Jessicas Team - Score: 8
+2024-11-29 22:15:17 Name: Jemimas Team - Score: 9
+2024-11-29 22:24:52 Name: G & J - Score: 11
+2024-11-29 22:34:36 Name: Dec got Decked - Score: 7
+2024-11-29 22:43:22 Name: MJ - Score: 11
+2024-11-30 11:20:21 Name: Bels Ends - Score: 9
+2024-11-30 11:38:32 Name: Easy as 123 - Score: 12
+2024-11-30 11:51:01 Name: Major Squad - Score: 7
+2024-11-30 12:03:09 Name: Draughts - Score: 9
+2024-11-30 12:13:27 Name: Shamrocks + Spices - Score: 5
+2024-11-30 12:52:14 Name: Fish Flippers - Score: 8
+2024-11-30 13:01:29 Name: Sausage Swallowerd - Score: 10
+2024-11-30 13:15:08 Name: Worsborough Wonderers - Score: 7
+2024-11-30 13:23:16 Name: CD - Score: 11
+2024-11-30 13:36:18 Name: Team Gemma - Score: 9
+2024-11-30 13:46:41 Name: Connect Christmas Crackers - Score: 9
+2024-11-30 13:56:33 Name: Team Nicole - Score: 11
+2024-11-30 14:49:30 Name: Steve Harvey - Score: 9
+2024-11-30 15:09:55 Name: Dream Team - Score: 8
+2024-11-30 15:22:11 Name: The Meehans - Score: 8
+2024-11-30 15:33:17 Name: Sov Squad - Score: 12
+2024-11-30 15:41:57 Name: Sherlock Homies - Score: 8
+2024-11-30 16:19:49 Name: 4 in a Bed - Score: 8
+2024-11-30 16:30:32 Name: Matt + Mill - Score: 10
+2024-11-30 16:38:54 Name: Ohana - Score: 4
+2024-11-30 16:49:04 Name: Cue Ball - Score: 10
+2024-11-30 17:03:55 Name: Hogwart Heroes - Score: 9
+2024-11-30 17:15:57 Name: Wild Cat Woman - Score: 9
+2024-11-30 17:24:20 Name: The Weakest Links - Score: 12
+2024-11-30 18:23:13 Name: Team Matthew - Score: 5
+2024-11-30 18:37:13 Name: Team Krishnan - Score: 7
+2024-11-30 18:45:17 Name: Hoe Burn - Score: 9
+2024-11-30 18:58:00 Name: Team Louise - Score: 10
+2024-11-30 19:06:24 Name: Cyber Squad - Score: 9
+2024-11-30 19:16:33 Name: A+ Team - Score: 10
+2024-11-30 19:27:53 Name: Fellowship - Score: 11
+2024-11-30 20:07:23 Name: The Trumpets - Score: 8
+2024-11-30 20:17:43 Name: The Hunters - Score: 6
+2024-11-30 20:29:14 Name: The Gamblers - Score: 10
+2024-11-30 20:44:26 Name: The Curlies - Score: 9
+2024-11-30 20:57:08 Name: Blacksmith - Score: 14
+2024-11-30 21:07:50 Name: KJ - Score: 8
+2024-11-30 21:19:00 Name: The Bonds - Score: 12
+2024-11-30 22:06:05 Name: DUBS - Score: 10
+2024-11-30 22:16:26 Name: The Tanspastics - Score: 8
+2024-11-30 22:26:34 Name: Dickens Cider - Score: 12
+2024-11-30 22:36:07 Name: Fact unt - Score: 9
+2024-11-30 22:45:04 Name: The big dossers - Score: 12
+2024-11-30 22:55:43 Name: Pen Island - Score: 9
+2024-12-01 11:19:11 Name: Fearless Reindeers - Score: 8
+2024-12-01 11:30:03 Name: AHEA - Score: 11
+2024-12-01 11:44:47 Name: Even Stevens - Score: 11
+2024-12-01 11:55:28 Name: H10 - Score: 9
+2024-12-01 12:06:01 Name: RLTS - Score: 7
+2024-12-01 12:15:41 Name: Sprouts - Score: 12
+2024-12-01 12:50:40 Name: Oscars Angels - Score: 11
+2024-12-01 13:00:16 Name: The Peaky Blinders - Score: 9
+2024-12-01 13:09:50 Name: Quizzie Rascals - Score: 9
+2024-12-01 13:26:09 Name: The Awkward Turtles - Score: 9
+2024-12-01 13:36:39 Name: Drama Llamas - Score: 8
+2024-12-01 13:47:28 Name: Fat Quarters - Score: 8
+2024-12-01 13:57:02 Name: The Chapman Champions - Score: 11
+2024-12-01 15:02:29 Name: Shell of a Man - Score: 9
+2024-12-01 15:13:59 Name: Famalam a Ding Dong - Score: 9
+2024-12-01 15:28:16 Name: Simple Minds - Score: 10
+2024-12-01 15:39:54 Name: Team Zainab - Score: 7
+2024-12-01 15:59:19 Name: Do We Need One? - Score: 9
+2024-12-01 16:36:26 Name: Helen 2 - Score: 12
+2024-12-01 16:45:01 Name: Helen 1 - Score: 11
+2024-12-01 16:56:50 Name: The Boys - Score: 7
+2024-12-01 17:13:20 Name: Bhad Quad - Score: 6
+2024-12-01 17:26:09 Name: Kippax - Score: 8
+2024-12-01 17:34:45 Name: The Girls - Score: 8
+2024-12-01 17:47:10 Name: Singh when we win - Score: 8
+2024-12-01 18:26:10 Name: MJ - Score: 4
+2024-12-01 18:38:44 Name: Janas Den - Score: 10
+2024-12-01 18:48:45 Name: TK - Score: 10
+2024-12-01 19:02:28 Name: Twin Flames - Score: 5
+2024-12-01 19:13:55 Name: Four Musketeers - Score: 8
+2024-12-01 19:25:13 Name: Kiblo - Score: 13
+2024-12-01 19:36:45 Name: Christmas Cracker - Score: 12
+2024-12-01 20:30:40 Name: Just Jamie - Score: 9
+2024-12-01 20:42:33 Name: Charlotte Vomit Comet - Score: 11
+2024-12-01 20:53:44 Name: Cubas Angels - Score: 8
+2024-12-01 21:15:33 Name: Stripes - Score: 13
+2024-12-02 13:06:06 Name: The Scots - Score: 9
+2024-12-02 13:33:47 Name: Team Begum - Score: 8
+2024-12-02 14:43:59 Name: Glittery - Score: 4
+2024-12-02 14:54:24 Name: Joes Joking Jesters - Score: 7
+2024-12-02 15:06:43 Name: Benjasmin - Score: 10
+2024-12-02 15:15:15 Name: Powered by chickpeas - Score: 8
+2024-12-02 15:26:46 Name: Wickedly talanted Adele Dezeem - Score: 9
+2024-12-02 15:40:17 Name: I axe trees down - Score: 10
+2024-12-02 16:15:04 Name: A+ J - Score: 10
+2024-12-02 16:23:35 Name: Team A  - Score: 10
+2024-12-02 16:34:36 Name: Team Aminah - Score: 6
+2024-12-02 16:46:20 Name: The Ws - Score: 7
+2024-12-02 16:54:42 Name: Sam + Olivia - Score: 10
+2024-12-02 17:06:07 Name: M + S - Score: 7
+2024-12-02 17:15:35 Name: The jS - Score: 13
+2024-12-02 18:39:59 Name: Amber Team 1 - Score: 9
+2024-12-02 18:51:38 Name: Amber Team 3 - Score: 8
+2024-12-02 19:04:19 Name: Delivery Time TBC - Score: 10
+2024-12-02 19:13:17 Name: Amber Team 2 - Score: 7
+2024-12-02 19:23:44 Name: Robs Angels - Score: 9
+2024-12-02 20:26:13 Name: Brollie - Score: 10
+2024-12-02 20:36:06 Name: Team Kelsie - Score: 8
+2024-12-02 20:49:37 Name: Bear Cheeks - Score: 9
+2024-12-02 20:58:38 Name: Annes Fanns - Score: 9
+2024-12-02 21:09:25 Name: Team S - Score: 6
